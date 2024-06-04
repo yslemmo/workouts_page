@@ -12,18 +12,18 @@ interface ISiteMetadataResult {
 
 const data: ISiteMetadataResult = {
   siteTitle: 'Workouts Map',
-  siteUrl: 'https://ben29.xyz',
-  logo: 'https://avatars3.githubusercontent.com/u/6956444?s=460&u=97e1062227c4088db3c987146455245c6fa78441',
+  siteUrl: 'https://blog.lemmo.top',
+  logo: 'https://pub-6270652de33146ff80af9863a44d6003.r2.dev/2024/06/665ea189301f8.png',
   description: 'Personal site and blog',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
     {
       name: 'Blog',
-      url: 'https://ben29.xyz',
+      url: 'https://blog.lemmo.top',
     },
     {
       name: 'About',
-      url: 'https://github.com/ben-29/workouts_page/blob/master/README-CN.md',
+      url: 'https://github.com/yslemmo/workouts_page/blob/master/README-CN.md',
     },
   ],
 };
