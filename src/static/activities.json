@@ -148,5 +148,50 @@
 "average_speed": 6.4,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 11578256175,
+"name": "Afternoon Ride",
+"distance": 319.7,
+"moving_time": "0:02:06",
+"type": "Ride",
+"start_date": "2024-06-02 09:57:25+00:00",
+"start_date_local": "2024-06-02 17:57:25",
+"location_country": "United States",
+"summary_polyline": "",
+"average_heartrate": 88.2,
+"average_speed": 2.537,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 11578256068,
+"name": "Afternoon Ride",
+"distance": 10397.3,
+"moving_time": "0:27:31",
+"type": "Ride",
+"start_date": "2024-06-05 09:51:56+00:00",
+"start_date_local": "2024-06-05 17:51:56",
+"location_country": "United States",
+"summary_polyline": "kgbdDcg~aThAn@v@l@r@t@xF`HJV@rBI`@i@`AcBnDo@hAc@z@Yf@MHSEmAiA_AsAgB{BcAyA[]MYC_@FwAIgHGsJOuGGiFGyA?yASqOIgC@}AAyA@eBTqCf@sFdAiKTaCNgCf@kEBy@XiBfAwLb@_DHeACiAI[SS]GoZBcHC}A@kBAcE@gEAeC?KDGFCJ@JDJHFZFhBG~AA~ABlGCpDDrG@nGGfAG|CJvME~I@zSCpE@jBClC@TFPNJX@^{DdYeApIqA|I_AfHaAdGQbBk@xDUdCo@pDc@vDGz@QfG_ArIAdAR`CEVaAdAm@`AsFpKWFiAEUIoAeBaCqCaAgA_Au@qAu@yAo@iA_@_AQUMMWEk@?iBMgGMiAKSSMc@CwDFuDEmE?q@BMFER?\\^bBV|Ah@nB",
+"average_heartrate": 155.8,
+"average_speed": 6.298,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 11578334370,
+"name": "Evening Ride",
+"distance": 275.9,
+"moving_time": "0:02:09",
+"type": "Ride",
+"start_date": "2024-06-05 10:21:27+00:00",
+"start_date_local": "2024-06-05 18:21:27",
+"location_country": "United States",
+"summary_polyline": "",
+"average_heartrate": 36.4,
+"average_speed": 2.139,
+"source": "strava",
+"streak": 1
 }
 ]
