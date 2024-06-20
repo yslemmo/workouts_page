@@ -253,5 +253,35 @@
 "average_speed": 6.205,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11697207005,
+"name": "Night Ride",
+"distance": 703.3,
+"moving_time": "0:11:39",
+"type": "Ride",
+"start_date": "2024-06-15 13:27:55+00:00",
+"start_date_local": "2024-06-15 21:27:55",
+"location_country": "United States",
+"summary_polyline": "",
+"average_heartrate": 152.0,
+"average_speed": 1.006,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 11697206933,
+"name": "Evening Ride",
+"distance": 20341.7,
+"moving_time": "0:53:55",
+"type": "Ride",
+"start_date": "2024-06-20 12:16:46+00:00",
+"start_date_local": "2024-06-20 20:16:46",
+"location_country": "United States",
+"summary_polyline": "_dcdDmh~aTsRjDmBX{GlAcBTcBL{ADeFAg@As@G_FE[E_@WyBwBiCgBeC}A[a@Mg@Ck@HoADsBVmCN{DHy@?e@NyDAgAK{@U}@{EgOoFkOo@oBm@}Bs@uBk@wBm@oBa@yA_@sB_AkGs@_ES}Au@{EKc@OQe@Aq@B}AEoG?wACeDOqA@mk@LqAAcIBmABuCBiBCcIBoAFoA@aDAmFRyCTaHr@m@P_@FKHANJNb@Ph@BnC[jGi@lBMpI[bFFpBAnXEhFC|c@IzEEnAGXW`@IBEAGMKe@G}DGuD?gR@iDDgOFuACkNHgF?eGD{AF_GCsAFgDVgD\\uDXw@JcAJgAH]?YMa@a@IS@mA[gEW{BUmEAmLCUGMMCg@JMLETFfB@vAE|BHvE^bFRlBPrBZbB?f@I\\LpAAd@UdACxAMvAEvAc@~FIvAGhD?fDBnAElF@vGC~GFtH@fSB~@LXZTfHzCtJzDzDjAfDv@v@L|@DtBIpD@jAD~@NxAd@`APr@B|@OhBo@rBk@nB[p@Aj@Fh@Rf@\\~@`Aj@Xt@P~@LtAd@d@DbDUvA@x@LdDlAz@RbBz@pEbBtAd@jAVhAFbEQ^E\\ItA@fARf@Eh@M\\@`K~BbDj@\\?r@Ql@[j@a@xDkBr@Of@CnBJbDBdBHtBG|BU`BMd@H`B~@~@v@j@p@zChFdCnERd@F\\@|BIz@UnAm@rBy@pEYjBIhAYrASjBgBvLi@|EE|BFjADFB?FTRLb@?nAEr@NxEfBvEvAJ?VKV[b@yAXqA|@}Bh@gAvFqHpC}D~@kA`@q@`@k@l@qA~AwCj@sA`B{Cf@kAxA_EXeCt@wF",
+"average_heartrate": 155.0,
+"average_speed": 6.288,
+"source": "strava",
+"streak": 1
 }
 ]
