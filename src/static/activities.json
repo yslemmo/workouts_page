@@ -568,5 +568,20 @@
 "average_speed": 2.78,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 11984743610,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 1924.9,
+"moving_time": "0:24:45",
+"type": "Run",
+"start_date": "2024-07-24 23:13:14+00:00",
+"start_date_local": "2024-07-25 07:13:14",
+"location_country": "United States",
+"summary_polyline": "{addDsw|aTEb@EJA@AHC?@JETKVW`AEDMb@ER?JITCVCBBBCF?NCHBFGPIl@A^BFCFIrAQfAMpAAf@FNPNXHROv@_AxAoAT[`@URUf@_@JMRMVo@R[HGHKHCFGRIVALDBH^b@hAlB^h@TN@HLHNGFKRMf@s@Pm@`@i@XSFK^u@DQVk@NOLWFG@KTe@@Q@@AA@@ABBCCA@@BC@G\\k@Pa@HIFQ?ELON_@LON_@LQVm@DSHIz@aD@K",
+"average_heartrate": null,
+"average_speed": 1.296,
+"source": "strava",
+"streak": 1
 }
 ]
