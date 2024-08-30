@@ -898,5 +898,20 @@
 "average_speed": 7.021,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12272048526,
+"name": "Afternoon Ride",
+"distance": 80653.3,
+"moving_time": "2:58:25",
+"type": "Ride",
+"start_date": "2024-08-29 08:06:09+00:00",
+"start_date_local": "2024-08-29 16:06:09",
+"location_country": "United States",
+"summary_polyline": "sdbdDwf~aTjLxLfAo@jIqOtCmClZgLvF}And@~b@nDh@`Be@xFhFrMtGpE`AtDNlDw@jJLvKiEbHgBfNaAzNj@jDk@tBcB`OWbImBnCaCXD|AjCfA^|QYhAS`CuBpGaBbIb@tHm@pLb@lFw@hDaBtN}BlHg@xKxAfDiApUmBtE{AbFLrCx@~@CjS}F|DcDvAy@lKmAnVxDpDErObFvFQ~HXjXbDxZlFlKbDtJj@~GtCdMpCxBGvBw@nO~BbJ|HvEvBrIfJrD|FnBhBdH|B~M~CxGfFzDfITjIrMzj@rQbY|CfHjA~Eb@bEKnIgAdF}@vB}EnHoBdF}@lFO|F\\zErB|H`DfF~FxFhBlEX|EsAfNNbI\\tDbAh@hZsCzGG`ThBrBdAbIvQbAzGjEnNjWtUr@zA~BrTFpD}H``@@hBf@|AnGtHjBzAhBLtEm@lAFp[tGlBbAjAzB`BrIr@bBpQ|ZtLpP|KrB~Hc@pEJtAb@t@v@lJvPp@vBe@dWhBdYfDpLlFxGvAdAhYxCzNlHvBtFXdB~Az]nGpMvBxCzIvHxHrEdx@|PtHbEvDdGvRrB|Ar@hEvD`Br@hTG`\\~AxB`@fAfArMnUhH`GjKzFbPrD|WhKhRrM~SpMfLbL|GdI~@xAzDpK`BnBjJ`C|QtCxq@d\\j@r@jAxItFfM~DhM~@~AvS~Nnf@vf@bXtL{YkNiAxBbAwBmA}Am@a@IVJeAua@ea@aSmNkAgC{DeMyDeIeAaEe@mEi@_Air@k\\eQoCeLiDkHoPwD{E{N_OcTwMwQkMiY}KgN}CuLoG_IoGkOiW_Bi@w\\}A}LR_H[aI}FkRmB_Aa@yDeGcGkDgw@oPoBu@oFaDgKcJuJeRcB}^yCaI}N}GuUyBcCk@qD{DkC_EsCgL{AmW^iXy@wBiKqQaCu@aPVcJaB{JeMwSw^o@uAoByJaAaBaCkAu[sGkHh@_BQcBsAuFkHo@oBCuB~Ga[ZyCM}D{B_Tu@cBaWoTaEmMuAyI_IeQmAiAyZwBog@bEk@Nw@bA}@jGm@vAuEt@{Af@uDtFyAnAcSjBuMvHuNlG_FtA{]hFqH?}PwDsCgAaGyFqAk@gQVeH}AqANsFfC{Gd@yT|G}[h@uR`IwUdNks@rUmH`BmLTsEYiLkC_aAmDwIaIuKeI{HsIoTwDuNyKwEyBsGeG}FyJsKcHc]eImo@_TqK}K}MmEeGwFi@gB^gI_@qBuOiT}CcR_MoXJsAlBaFtJ}y@DqIUsEo@gFeBcH{BqFuC}EwPyTqL{MmBUqFjJwIcLcA]w@jAa@F_K_L",
+"average_heartrate": 151.3,
+"average_speed": 7.534,
+"source": "strava",
+"streak": 2
 }
 ]
