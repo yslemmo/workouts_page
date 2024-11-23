@@ -1468,5 +1468,20 @@
 "average_speed": 7.758,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12956570369,
+"name": "Afternoon Ride",
+"distance": 12175.6,
+"moving_time": "0:29:22",
+"type": "Ride",
+"start_date": "2024-11-22 07:50:31+00:00",
+"start_date_local": "2024-11-22 15:50:31",
+"location_country": "United States",
+"summary_polyline": "mcbdDcd~aTdAbAtEzFRb@DZD|@Nd@`@VL?l@Cj@F^^d@r@nA|AbBnB^f@LbARVf@VbAlAVPXH|@nAbAdAlAfAnJfLdA`B`GtHt@bAv@nA|@dBz@jBn@`B|@pC|@hFVtBRhCNbFIvEGlAa@dFwBjP_C~R{AdL[dAo@xA]b@SJK?KAGGo@gBe@_Aw@mAkE{FsFeIcBqB_DgD}@i@g@OeKcBc@CuAJcA?m@G}@[{Ay@a@Me@GqAEi@Kc@UqBiBwBcBaFmB_@Gc@@c@Ha@Pi@h@gBtBm@`@iJnF_BdA{B`AcBl@cBb@cGrA{E`AoANqKdA}Jf@UEQMMW@[VyBDgAE{@g@}Be@oBaA}ECk@By@Pu@^{@z@sApGoM~@cBl@{Ab@w@ZeAJiA@oCKiFKiCBi@Pm@TuB|CgTHGd@BrAUdB_@b@?t@NDAHQPqBTuBJ_BBiGDoATeCJi@R[x@m@j@Yj@KnF[hBWZKdAcA`@w@X_AHs@AeAs@mFEKICWBeE~@cBXcCf@MCACFGvCk@hAMfPyCtAU|AUdAU~@BxCe@vAOnACvADh@FPJJTBd@?hBDnBJnBAhBBdBFxAJd@\\h@x@dAjBvB`@R`@DZb@a@FW]]QaC_De@i@w@k@g@Jw@?GDEXTS",
+"average_heartrate": 153.1,
+"average_speed": 6.91,
+"source": "strava",
+"streak": 1
 }
 ]
