@@ -1513,5 +1513,35 @@
 "average_speed": 7.72,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 13020404099,
+"name": "Afternoon Ride",
+"distance": 115.9,
+"moving_time": "0:00:42",
+"type": "Ride",
+"start_date": "2024-11-30 09:18:26+00:00",
+"start_date_local": "2024-11-30 17:18:26",
+"location_country": "United States",
+"summary_polyline": "",
+"average_heartrate": 122.7,
+"average_speed": 2.76,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 13021521132,
+"name": "Afternoon Ride",
+"distance": 81449.6,
+"moving_time": "2:55:25",
+"type": "Ride",
+"start_date": "2024-12-01 06:54:47+00:00",
+"start_date_local": "2024-12-01 14:54:47",
+"location_country": "United States",
+"summary_polyline": "eccdDyz|aTkKxSp@f{@_FnDrBbFQpGuShGo_@dFuArLaPvWeAhd@_MrQiJ`CBvA`EtBb@jBwMhVwHjHqEpKuBnN_DbJBvK{@pRiEx]UrMzAzMqBjOuU~a@aEpE_InTcOtLgLnEwD}@yEb@kAgHcGuAwDnJyPhKsMmGqF@sIfE_EnGmGZu@jK{C~CgSqGIbC`G|WAzBaApBmHbEs@xAr@jOdIlPa@|G}AtBcDnAwHHeHfJqLA_FnDaBlFGnEbCxRm@~B_DzByCvGmEcCaDNkBpAcEk@qDkEoBoFwEiAyBd@gBnFlEvS@~JqAvC{JhE_WpEeOBcI{AyCkDsGb@kJzPvAbGnBd[]dLDvUuAtCoEzAuQ_@cFdDcC~Q}CvOrAjI]vAoAS_FwJgAk@yHxE}BrDmAScKyLmECeAfC_FdC{NVgOaL_KcFeBtCCjEaLhQoEjRcAnAyHp@qEiAaFoDaLuSgG_@mC`CiGfLiRxL{KrDoESaFoB_HFqZ`XeGuAsKTmBrBsLpUqEjN{AbB_EbAeCrCUnHfBhFfPxM`GzJY|OkCtI_EfD}Ib@s}@aPcUiNyJmDqYsC}JdBwEkA{BkDcL[mR}GwYeAkKiBaOuO{JoG_P_RkOq@ub@yHqM}KuF}LaIcFiJuBaIuMoNwDgJC_KwDkKqHnK`IdHjC|Cx@dGQzNtDxHlMbL~CbF|ClDrEbCfHhN`Lx`@~GdJF`FhArNzP|KhHhNjOzMrBbWr@|TlH`J?`CvDzCp@hNyAbWlCxM`FlRvLh{@`PxLg@jDmCnDaLTwL[aCgFqHqQgOaAoDVqHxBaCpGqCpFgPnDqEnGiO|BcBdLHtEjAnYwW`FSbJfClDA|MuEjQgMtFeLnBuAjGl@tMrUvHbDlJm@`BuB~DsQpDaE~FeLI}D|A}BtYpRvPInEeCbCoCzEbAtJ`LdFgGbFeCvA|@bEvIbBXf@oAuAkKrGs`@dFgDhQh@|E{AvAeCf@}Hi@sI`@mOaAmFu@wTsAgFrJoP`GUtDzD~DArCpAvNUnVmEpIoDlBkBV{DYeJaEeQvByFzBM|DxArBzFnDxDdDf@hFgBzGtBfHwJh@gBR}C{BkJM_FT_EtBeFfD{BdMGzGyInISpF{D^cIkI_QDeIk@sC\\qAbE{A~DeFuEyWg@gG~SdG|C{ECsGh@aAnGS|EsHvFgCbGa@jKjGpBL|P_LlDaJxFhBjA|GrEi@rD`AnMcFnNkLdIwTfE}E|Uub@~A{O}AuLZaNfEk\\j@{N[{Ez@uJrC{H~BmOzDyIbIeIzLwUM_BgDeBo@eBdG_AjCiBfLqQlAyc@fPkYtAqKx]wCtOmDvHkEsTyh@OeGrCsIbOcSlJmR~DqUUmJr@IL~A",
+"average_heartrate": 157.0,
+"average_speed": 7.739,
+"source": "strava",
+"streak": 3
 }
 ]
