@@ -1768,5 +1768,20 @@
 "average_speed": 7.664,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 13252837306,
+"name": "Afternoon Ride",
+"distance": 7293.7,
+"moving_time": "0:19:13",
+"type": "Ride",
+"start_date": "2025-01-03 08:19:42+00:00",
+"start_date_local": "2025-01-03 16:19:42",
+"location_country": "United States",
+"summary_polyline": "ixadDqx}aTNLFCBQCYeAkBsDiEa@a@wAqAoBiAqAk@aCe@WQIMG_@?sCQ}JMwMI_CBgAGmCEwFt@aHKVr@}Iv@iHd@yFToBJuANgARgBLcBb@{D@i@H{@RqBNiA?sAEQMMG?ONUZSDcAAHE\\@rACfA?h@FVEnC?`FApEBd@BdDEfB?rBArEB`FEHEFGBKAKGIWKu@EgDDq@AsABwA?cHDq@HUJQTIZ?dBY`Ce@|FaAjIYnDcAtJQdCKTIDI@KAaCoB{L{IOCOHIROjBc@lHYbBuAhNKpALvJF~BAhAFhFZvQCjABpACTIN}@\\cACc@BWH]Z_@HOH_ALuCp@t@n@aByA",
+"average_heartrate": null,
+"average_speed": 6.326,
+"source": "strava",
+"streak": 1
 }
 ]
