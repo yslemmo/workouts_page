@@ -1798,5 +1798,20 @@
 "average_speed": 7.196,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 13316888812,
+"name": "Zwift\u9a91\u884c",
+"distance": 20031.9,
+"moving_time": "1:31:51",
+"type": "VirtualRide",
+"start_date": "2025-01-10 12:30:17+00:00",
+"start_date_local": "2025-01-10 04:30:17",
+"location_country": "United States",
+"summary_polyline": "",
+"average_heartrate": 163.2,
+"average_speed": 3.635,
+"source": "strava",
+"streak": 1
 }
 ]
