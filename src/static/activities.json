@@ -1813,5 +1813,20 @@
 "average_speed": 3.635,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 13324909617,
+"name": "Zwift - 2x15 FTP Intervals in Watopia",
+"distance": 31225.6,
+"moving_time": "0:55:20",
+"type": "VirtualRide",
+"start_date": "2025-01-11 12:40:32+00:00",
+"start_date_local": "2025-01-11 04:40:32",
+"location_country": "United States",
+"summary_polyline": "`n_fA{ccz^QiBx@cFyBuFx@cA~CCVkEl@w@`CBpDnBL`CzBz@cAxCt@nAtBJpEa@lCuCBm@cAmBGsAvCmCX}AGaBuB_GsFqEOsAlAwEfEeBx@sAJgBUeBiDuDQo@|BkCMuCtIkTb@iEm@{BwFqBaAu@{@gBKaBrGyNfAsD`Dq@lBp@dAAx@e@bB_D|CInBaAh@iBC_BcDcF\\eAlAy@~@Gz@b@`FlI`Av@|@C|@w@rAuEvAHxAbAJ~EhCzAXbAQt@iCdAc@fAE|KsAtRh@pAtCzC`@dB\\PvFh@zL{C`Bp@t@zE^pLOxBgB`BYdANnF|@dDxAr@hCKxAn@nDd@dBnAd@vClAdAfAs@xCeJpA_AlCnAj@|CvENpCjDxCM`BeB@iC{BcBiC\\wBjCuEC]U]mC{AaAgAKoAjAsCzI_Aj@gAcA]kCcBuAcEm@sAm@gCHuAm@u@}BWsGNw@pBiBRaDg@{Lq@{D{@m@y@AoLzCwFe@[USwAwCaDm@oAtAaSByKf@aAvBs@^}@]sAeCuAK{EmAeAgBUg@t@w@~Cw@x@m@H_Ak@sFaJq@]_A?qAr@k@lAdD|F?xAi@bBiBx@cDJaB|Cw@d@cA@yBs@_Dt@yAdFwFxLDnB~@pBjA~@`F~Av@pB_@pEwIlTG|@RxA}BlCVx@fDlDVnAGlBs@tAyErBo@|A]dCVrA`DxB~AjB|AlEJ`Cg@`BeCpB@vAdAfCmArBw@l@}Eb@eCc@QcAjC_FbBaA|C_@bCcAt@o@^wAGcC{AmEgByBcD}BOaAb@sCj@qA~D}AfA_BJgBUeBmDsDSu@zB_CI}CvIyT\\aEm@yBsFiBeA{@_AuB?oBhGuMfAyDvCq@|Br@lAEx@s@pAiCbDMrBgAf@mBE}AaDkFl@iAlAm@|@@t@f@hEjHlAnA`AA~@{@x@mDf@i@|AXfAbABjEnCfBXjA[t@aCx@e@hACfKsArSn@rApCtCVzAZVxFh@vLwCx@@n@d@p@dDj@nMQzCmBfBQt@PrGz@nCtAl@bCK`Bp@tDf@bBnA`@vClA~@dAs@rC{IfAgA|@H~A`Ad@xChF\\jCdDlCKzAoAVuAGgAuBeBeCR_CrCyEE[SWgCsAcAgAUmAp@{ChJiA|@iAgA_@oCiBuAiGuAqCFmAk@w@cC[uELgBhByA^_B]wMs@qFgBy@yL|CgGi@m@qB_EeFrAoSD}K",
+"average_heartrate": 158.6,
+"average_speed": 9.405,
+"source": "strava",
+"streak": 2
 }
 ]
