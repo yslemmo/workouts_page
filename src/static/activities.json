@@ -1815,6 +1815,21 @@
 "streak": 1
 },
 {
+"run_id": 13331544228,
+"name": "Evening Ride",
+"distance": 25425.7,
+"moving_time": "1:22:19",
+"type": "Ride",
+"start_date": "2025-01-10 12:30:48+00:00",
+"start_date_local": "2025-01-10 20:30:48",
+"location_country": "United States",
+"summary_polyline": "",
+"average_heartrate": 163.9,
+"average_speed": 5.148,
+"source": "strava",
+"streak": 1
+},
+{
 "run_id": 13324909617,
 "name": "Zwift - 2x15 FTP Intervals in Watopia",
 "distance": 31225.6,
@@ -1828,5 +1843,35 @@
 "average_speed": 9.405,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 13331544085,
+"name": "Evening Ride",
+"distance": 24901.4,
+"moving_time": "0:52:54",
+"type": "Ride",
+"start_date": "2025-01-11 12:40:58+00:00",
+"start_date_local": "2025-01-11 20:40:58",
+"location_country": "United States",
+"summary_polyline": "",
+"average_heartrate": 161.1,
+"average_speed": 7.845,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 13331543970,
+"name": "Afternoon Ride",
+"distance": 54207.6,
+"moving_time": "1:55:05",
+"type": "Ride",
+"start_date": "2025-01-12 07:26:39+00:00",
+"start_date_local": "2025-01-12 15:26:39",
+"location_country": "United States",
+"summary_polyline": "swbdDgj~aTt@Uy@SsAHkJnBw\\|FmDb@yEP_NOgEkDkFgD}@aAEiBT}B|@qTEmAwDiMkH{SeEaNiB_IoDgUk@eEn@kNcAeMr@eH@iDSwBYqAqGyVOkAE_B`@uSAqE[oB}Ogm@kFme@E_Fh@eV\\iYKeAYcAqDiISeACs@h@cDdE}Rb@cCBu@i@mHuE}R]mGSaBgAuCw~@ymAiP{\\mCoGk@u@mMyWg@g@Y@WPeBlCyCzC}N`HmCxBwD~AqRfH}Db@kCF}OnBa@NiDdE{@b@u@Bc@c@mBcGa@kC}DsCcGqCaC{C_BsA_B[oBmA_Eq@k@USQ_@aBk@_A_EqBkJyF_EwCeKsGoEqA_@AqCj@aB_@cCwAsFIwEmAuH}CuEw@wDuBaGkB]BgGfCaCbBcBlCo@h@uCl@sDpAaIxEgFfBcClAaDbEkBtEuBzCaBvDqDpBcE`ASXcBrGYp@yDrEmE|Bm@PyAJ_FvAwCB}GzAoBR{Lq@eDc@mCPy[GkZkCe@HaAx@aCfGeB`AuC`@e[?c@MqAyA_Aq@_Bq@yHyE_MeDgEu@kCEm@O{C_CmDw@wEiBgCo@wKkDwCn@yG|@sIvCwAPsEg@qFgA{K{AmJeCi@AqB\\qHbDoFt@oJq@oRv@oA\\cKdFgBl@{C\\}BEsDw@oh@sQaAQkUSsWoBcBQu@Wa@JAnAOr@wClJ_@b@v@bAz@l@xKtEdUdEbNxCvH~FpK`Ele@xh@tCxCxI`IbBvBz@jBh@|BjE~YzAvDbAbBtE`FnBbBnJ|GjB`ApOhF|L~AzAp@lCbDpAp@pEz@p@Z~@v@hA~BdCxPdAjBx@n@`A\\nX~EfF|BzFU`B\\l@`@~LnN~@tArE`KbFlIfF`GlClGd@r@bA|@bRvJlDfBhHhCh@^l@x@xKrS~RrW|CdGtAjAv@VjBJfIkA~BTfA`@pA|@jE~D~CbB`KxClN`FzGfBjY~FxIvAl@TdHtFxGpDzFlBrBb@`OvBnCpAbFlEnB~@|BJ`GaAzBLjA`@dHtDjGvD|EtDlKtKfBvAxf@b\\bErDzF|EtH`FnCdAdFRnB~@l@DzDUbHrBvIrD|GrEjGrC`KvFpEtC~DfBjNvEbAh@jCzBzDhBxAb@h@DXKN[@e@GeDIqu@F}ClAcVNu@x@qAb@O`T_BhGU~rAQjK[hKIXZHlAtEtXbEbO~HbUhF`Q?bDe@rKS`Ek@~EDb@jA\\xCbB~FbFt@X|@FtLBnEMjNyBjRoDhFe@fCc@XDFP",
+"average_heartrate": 163.2,
+"average_speed": 7.85,
+"source": "strava",
+"streak": 3
 }
 ]
