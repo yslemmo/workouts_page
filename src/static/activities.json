@@ -1933,5 +1933,20 @@
 "average_speed": 7.652,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 13608744996,
+"name": "Zwift - Control The Burn in Makuri Islands",
+"distance": 7080.6,
+"moving_time": "0:15:35",
+"type": "VirtualRide",
+"start_date": "2025-02-12 14:37:03+00:00",
+"start_date_local": "2025-02-12 06:37:03",
+"location_country": "United States",
+"summary_polyline": "djv`A_~es^IPER@f@RhAb@`ABP?PQdAB`@N\\FLn@b@z@hA^Vp@NnBXzAL`@JVNVTTZ`ArB`@n@t@t@hBzA^`@NVHZBZEZENGJMF]HSRSVMXC^BNPX`B~ANVHX@XAZ]fBGf@DdAFXLXXb@VNhBp@VNTRLXJj@D|AB\\LZ\\b@LZJ\\@N?l@ENIJMF]F]?gBi@]C_AA_ADkAXq@JyBB]CWKQSIYMcAUe@y@w@y@g@o@WSCQ@a@Ly@b@OFO@OC[My@u@WQuAc@YOsAgAYQ_@C_@DKFm@h@a@ZYF[AYIUK_@Y[[EKAg@MWQMa@MYAKBw@h@{@Nk@XO@c@Eo@WOKU]Qs@AQDu@Ea@GOKKm@WOA_@F]Nu@h@}@ZMHSXY|@SXYR[Po@R_@?mCG]DgAV]@M?OCYOiA{@[Qk@QmB_@YQIKEOGm@Uk@IKYSMGm@OMEEMAODu@DYNSl@o@L[Ja@AA@_@EOi@{@Oa@EcADy@H[NYVSzA}@RYFOF_@DqAQwDAQK_@_@_AWW}@m@OUOg@CYF[v@sALc@?SCQIOu@o@KMEQ?a@Ls@P]LILIZGnBO\\MJQVkANQb@MfBSd@OHGNUFWBc@I]QUYQ_@M{@KeEWYCKEGIE[DuAFUHERChAHHCBI?KGEGAoADy@GKGMMEK?QBKHGJEF@FBFFD\\BFDBF?DEJ[LIHA^BbATFH@J?\\JH^DLFFN@`@LFN@LAHEFID[DKJGL@JH\\n@JFJBL?LE`@i@TOHE`@EjAA",
+"average_heartrate": 145.8,
+"average_speed": 7.573,
+"source": "strava",
+"streak": 1
 }
 ]
