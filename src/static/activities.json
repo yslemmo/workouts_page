@@ -1948,5 +1948,20 @@
 "average_speed": 7.573,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 13616928042,
+"name": "Zwift - Foundation in Richmond",
+"distance": 19981.4,
+"moving_time": "0:48:22",
+"type": "VirtualRide",
+"start_date": "2025-02-13 13:02:28+00:00",
+"start_date_local": "2025-02-13 05:02:28",
+"location_country": "United States",
+"summary_polyline": "wecdF|xrwM_GbLeLbUeGlLoQf^g@fAG^?PH`@RZ~@p@bFfDHJ@NG\\{Qh^wApCaBnD}EfJORk@PQP_@jASd@wCzFQTq@RIFQVI^AbACNMZsGdMcI`PwE~IEP?PFLLHLAJIJKtAuCbPy[lDwGPYJIf@IVSHKJa@@iALa@`@_A~BsET]LKNENA`@Hf@\\zA~Ad@Z`Ad@tIvDxBbAdDjB\\NPBNANGHQJe@H_AJi@rFiTJi@@wAB}NB_F?_LBeGISSGkBAo@EOCMI_Ay@cGcESUEO@OH[~@kBtRe`@fBiDJKNCLDn@l@tB|B|AtAlAnAvAdA\\PNBN?NELI^m@z@uBrBmEjFeKfGyLxIuP|AiCjDyGrBoDTITLf@d@rE`FNLRDPGJQ`@y@r@aBBSDm@MuAAi@Fi@Jg@~BmFtEuH~BkE|BmEVwAZk@p@kAfAcBtEaIbCqDp@{@XWnPyLlCyClAkA\\MtA[`Bg@fA_@`Aa@VQPWDOAOEMIIYA{AZuAj@oEpBw@v@sDdEu@h@cA`@s@NW@iDQs@?{A^cG~@KCASBI\\[FI?UGMWQWE]@m@LIK?SDGd@QJGLSPk@DGJBTLV\\LJVDZENMDIDWE[MUsA_Bc@_@MCKBST[~@]v@}GlMy@hBB`@TZdBvARZGd@kCzFa@p@UHWGOOwJkKcA_AKEO?KHKJiClFeJhQO\\E`@H\\jAvAjIxHn@h@LNDVGTUf@sB`EgCfE{BhEoBfDyBbEQTI@YIi@Sy@y@iAc@{A{@iA]eAMQEWQcA{@WMQAMHo@dAoE|IkNlXsFxKoG~LaQn]i@jAI`@?PBPN^VVh@^hFhDHJBN?NENiTfb@qBhEuE|IUXm@RMNo@jB{CbGQP{@\\ORIXEtAKXqGbM",
+"average_heartrate": 142.6,
+"average_speed": 6.885,
+"source": "strava",
+"streak": 2
 }
 ]
