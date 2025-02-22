@@ -1978,5 +1978,20 @@
 "average_speed": 8.277,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 13687288773,
+"name": "Zwift - Flash Burn (1) in Watopia",
+"distance": 13518.3,
+"moving_time": "0:27:27",
+"type": "VirtualRide",
+"start_date": "2025-02-21 14:28:36+00:00",
+"start_date_local": "2025-02-21 06:28:36",
+"location_country": "United States",
+"summary_polyline": "tw_fAmk~y^y@s@g@m@Wc@g@mAa@sAMy@Gy@@k@Fk@JYb@o@`Ay@hEuC^]Vc@B]CMKWe@g@iBmAKUAWBIFGRIvASFGBKCe@c@aEc@aDEkA?w@R{APq@N]Xk@\\g@^c@d@_@t@a@bAc@x@U`Ba@hBYlI_AfC_@|@Yt@c@d@m@Zq@~@mCXi@RWn@k@t@c@j@Sn@O`AEp@@z@Px@^f@Zb@b@bClD^d@b@`@XRj@Rn@H^@~@EhDa@vBa@hFsA|SaGj@Il@BXLPZBLB`@EzLCbAGdAKz@Mj@uAtFQd@_@n@Mf@C\\@nGCl@Iz@KXGHKHYHcAHuFHy@EUO]o@o@mBgBoGUe@e@i@_@YWK[CY@a@Pg@^U^Mb@EX?f@Fd@Lf@vFtLj@z@?NIJWNi@NiARaFl@sAVe@VSTKZ@\\FLVPj@DdBOvGaAZAXBJDBLEJULq@NgLdAIDGHALBXDHTJdAFZC`C[d@?jABx@Fp@LXJTRFLF^D|AJd@R`@|AhBNb@Bf@APGPMLOFoAVSFMNCTBTf@|AZn@LJ`@Hp@ELFJJDNANGNKJOBeAGc@DQFIN@PLLb@JLHHN?PKNOFS@e@GQG_@We@KS?e@Fu@R_@N[TIJ[h@UXqBnA_@\\SVWd@c@rAWxAa@tCMhBCjABjA`@`GFhBAjAGx@KdAOt@W`AWr@kB~CiBnDg@p@w@b@KHSXK^[pBUn@a@d@cAp@uAj@}@Rq@?uCWQ@m@ROCIMBM`@Uj@OrAIPCJGBGBOIWQWSII?W@UHkDtA[J[Au@[iC{BKQCUBiADYJWJELCp@ALGHO@QEgA@QJo@@a@_@aDM]SY[Q_@IOBu@b@MDq@?MDKHILU|@GLKHm@P_@AOCUWO]e@mBO]e@y@CO@_@H_@Tm@b@w@|@u@TYH]Fo@FMTYb@a@FOBQEa@So@a@{@gA{C}@mCcAiDI_@Kq@A_@BOL]b@c@\\M\\Ej@Fb@PTPj@p@\\ZJDLAJEHIBM?KKe@_@m@[w@qAyDi@cAYa@s@e@y@_@gEkAkAc@uCaBcAy@m@s@e@w@o@eB[{AI}@B_AJk@Vg@h@k@fAy@tCkBl@g@RUJ[BME]Wc@i@c@",
+"average_heartrate": 148.4,
+"average_speed": 8.208,
+"source": "strava",
+"streak": 1
 }
 ]
