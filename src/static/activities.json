@@ -1993,5 +1993,20 @@
 "average_speed": 8.208,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 13695878375,
+"name": "Zwift - Giza in Watopia",
+"distance": 29284.2,
+"moving_time": "1:00:14",
+"type": "VirtualRide",
+"start_date": "2025-02-22 13:15:57+00:00",
+"start_date_local": "2025-02-22 05:15:57",
+"location_country": "United States",
+"summary_polyline": "p}_fAqg~y^qDuBkBgBsAaDc@aDJqAb@y@vG}Ev@gAUgA_CaBUo@R[nBg@kAsKE{Bl@aDvByCdCoApCu@jSyCtAiAfCaGzAkAjBk@tBCjBh@nAbAdErF|@f@xANtIeAl[wIvAKp@\\L~AOrOqBnJ}@xBGjJ_@tAkBZiHBu@_AwC_K}@oAu@c@{@?aAl@e@dAG`AVlAbH`OoAl@}JxAs@d@O|@X^r@FdKqAp@BJRiAf@mLdAORBf@zAX~C_@|BDnCp@`@pDpBlCThASp@cCr@Ch@hAxChBPPh@]b@eCHA`@fAl@G`@s@JwBs@kBZw@b@eAvAqDzC}@lDq@pG?lCh@lJc@|Fu@`C{EtIqBdBu@pDm@z@oBhAyBh@sDYaATWKDUl@YnCa@Ak@e@a@w@FiEbBeAWcD}CPeCnAMT]JuDo@eEs@i@o@Au@d@mAJ}@lBmAJc@]kBiF@m@\\eAvBiCVyA`AeAD]eG}QU{Bl@aAdAYjAXhBbBb@OBg@sEuKkBiAkHyB_EiCoByCcAkEB_Bb@gAhHmFl@eAU{@gCkBOa@Ja@hB[LUmAwKCwBZoBpBoD~CeB~DaArKoAtEcAhAeAbC{FxAkAfBm@bCChBj@hA~@dErFdAh@nAN~IgAh[uIpAKv@`@JdDOhMqBpJ_AzBE`Ja@|AkBZeHBy@aAyCgK{@iAs@_@y@AgAp@a@~@EbAVpAbHtNcAp@mK|Au@j@Kt@X`@f@FtKqAh@@LVgAd@qLfAIr@xA^fD_@lBBvCl@b@pDrBnCTjASr@cCv@Ch@`AlCj@X~@CXf@[f@gCHC`@fAp@I^u@HyBq@kB^w@d@{@nAgCbBo@|@y@`Ds@hG?`Dh@tJi@`Gs@vBqEfI}BvBaAdEkChByBf@}DYiANCYh@YvCa@Co@o@a@sFlBsA_@mC}BKa@PyBlAOXWJwDm@eEm@k@k@G_Ah@gAD_AlBoAPi@a@iBcF?g@^kAvBiCTwA|@_AJk@gFmOs@cEd@_AdA]tAXbB`Bd@IBq@oEkKgBkAgHyB_EeCsBsCiAuEB}A\\gAfHkFr@kAYcA{B}AUm@N_@hBYHWqAuL@aBb@}BjByCrDmB~D}@fNcBhBi@jAgA`CyFrAgAbBm@|BIrBh@hAz@lE|F`Af@zAN~H_Ab[uIpBSf@RTt@G|O]vC_BlGs@xAIpA",
+"average_heartrate": 149.9,
+"average_speed": 8.103,
+"source": "strava",
+"streak": 2
 }
 ]
