@@ -2008,5 +2008,20 @@
 "average_speed": 8.103,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 13751014197,
+"name": "Zwift - Terrain Toner in Watopia",
+"distance": 12768.1,
+"moving_time": "0:26:24",
+"type": "VirtualRide",
+"start_date": "2025-02-28 14:51:50+00:00",
+"start_date_local": "2025-02-28 06:51:50",
+"location_country": "United States",
+"summary_polyline": "n{_fAwh~y^oAw@}@o@u@s@c@m@o@uA_@mAUqAEeABi@Jg@JWX_@hAaA~DkCf@g@NUDKB[CMSa@c@c@qAw@QOISCU@KLMf@M~@KFEBK?Wa@uDi@yDEiA?w@PyAH_@Ro@Xi@Zg@\\c@b@_@r@a@nAk@v@WbBa@pB[lI_AfCa@bA[h@_@TWR[Vk@z@cCVi@PWl@k@p@c@x@[l@M~@G~@Bl@Lx@\\f@Zb@b@jCtD^d@b@`@XPl@R^Dp@Bn@Cn@IpC]|@QvGaBrN_EnCy@x@Ml@?NBVPHLF\\?fCCfIExAKvAUlAsAnFO^c@v@Kb@CX?~GEhAMh@SRKFYFw@F{FJ[A]EKGSW[q@g@}AgBoGO[[c@WUe@Y[GO?[DYL_@ZQTMVMb@CX?XFd@Pn@pFhLj@~@BJAJ]V{@RsARsDb@_BXUH]TORIT?XHTPPd@Ff@Cr@InFw@bAMf@?LBHF?LSPq@PuBV{Hn@KHCL?ZDJJH\\Dl@Dl@E`BUp@EjAD|@Ff@Hf@NTRL\\HnBHd@`@p@bAhAR^Jb@?RAPGNINOHkARSFOJIP?TDR^dA@PAPGNIJOFOAOCYSgBqBi@i@g@UMCM@MDKHOXUh@y@tCO\\IJMDOCKIUWkA_C_@m@WOKCM?MDy@n@wHtEKHYj@KHO?MGSW]u@aBaEk@aA_@c@WM[K{@I{@@eAPa@PMNETBj@Jl@Rl@NPPNjAh@NLFNCPSZeA|@_@N[VM?KIs@y@MGm@GIKM}@EOg@y@]YQGc@@]HUNU\\O^EX@LDJVRn@TLHFPKdA@LDJHHTLdAZNPBJCJIFa@ROPAL@JJV?LIH[Jk@Na@Fa@@OC_@MWUSYg@gAiAkD[s@m@eA[]c@Yw@]eEkA}Ak@aB_A{@k@s@m@k@q@[g@c@eAWw@Q{@Ik@Ek@@k@Fk@Rg@d@m@`Ay@|DiCh@g@LYBM?[CKOWe@c@{AaAOSEUBUNMZIhAMHSAc@e@aEa@{CGyA@w@LeANq@Zy@j@aAr@u@|@k@vAo@|Ac@fB]`KkArCe@`AYf@[^a@Xe@",
+"average_heartrate": 148.5,
+"average_speed": 8.061,
+"source": "strava",
+"streak": 1
 }
 ]
