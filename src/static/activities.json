@@ -2848,5 +2848,20 @@
 "average_speed": 7.457,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 14972885287,
+"name": "Evening Ride",
+"distance": 32412.5,
+"moving_time": "1:15:32",
+"type": "Ride",
+"start_date": "2025-07-01 11:39:02+00:00",
+"start_date_local": "2025-07-01 19:39:02",
+"location_country": "\u6d1e\u53e3\u53bf, \u90b5\u9633\u5e02, \u6e56\u5357\u7701, \u4e2d\u56fd",
+"summary_polyline": "ahcdDkg~aTsPxCuFhAoFl@{EL{MOYKkCgCiAu@eAg@mCuBOWMi@?{@dAuUD{ACiAMu@eFcPkE}LiGiSq@iCi@wC}C{Ro@eF?iAl@{JAiB}@sIAs@v@cI?sBQyBWwAuG{VQwAE{A^wSBsCC}@SqAaPim@y@uGcCkUAi@@~B^jC|BfT\\jBbDzLnIv[f@xBPpABtAe@fVBnBNvAnC`KbAlEATQP^KlAxER~CGxCi@jEGlAFpAv@jGDdAAvAg@pICpARtBf@bDTv@LxAfBzKp@vDn@jCpCrJrBnG|E`NtDvLd@fBJp@AxAu@lQQvBi@`DBXXRr@Jf@PfErCfEtDh@FdODtDMfCYp]eGfMoBjBEzADdAfA|@Of@@vAb@vAt@zChCdFhGLXFl@DbAGLLPf@JbAE^Rt@jAlFnGnBfBzQnTtLxOvBxDv@jBv@xBn@fCh@dCZzBXrCL~BDdCAdC[fGuIvs@SpAa@lAm@fAy@dACLnFdLLd@EZo@rB}@tF_AvEk@vAu@pA_C`D_CdC}@jA_Ax@iAl@iBpAlEwCl@i@xCmDhDqE`AoBb@oAxBmMb@yA@m@Ma@kImQy@wAeHmJkDiF_EsEaAaA{@g@{KgBmEFs@KqCwAk@OiBEc@K_@SsDeD_Am@kEaBk@Mm@?k@L_@TuC|C}KzGcDzAcGfBCPVz@Ft@G|CPpGEvAK|@T~ADpBd@pEZ|AFdAKhCBh@Pv@@\\Kj@e@rAU`@{@`Ak@|@YNeBCYH]ZYj@c@tB{@h@cAbBKDsAU]@g@TiArA}C`CyD`GqCpDcBlBuApByChCmJtGm@p@yDzFe@XuA\\e@\\sAbBiAv@_A~AcBbBsB~CMf@?h@Nf@hD|FDZAlAb@`Ea@zACNBLl@fAb@xAPZrA`AhAl@fANuAUiCcBYe@o@sB_@w@AU`@mADk@SqAWuBAcAqAwBiBeDAWHa@d@aA~BaDp@q@pAsBhAs@tB}BzAa@^YrE}Gd@e@hIkFpD_DxC_ErCiD|EqH`D}B|@cA\\Sb@IrAR^Or@{A~@o@\\aBb@{@`@[XEnABf@Mp@kAjA_BZcAJoAW}A?s@H{@?}@MsASw@K{A[wBG{BWwANoAMmJJs@Vg@vAgBMNK@EIBK~BeA`Ay@nCgBJQ@SGUkAaBgFoLgJiU_@kAWsBA{AHk@hBkFt@cB~LmPtBeDrGoMZq@|AiFxAyK",
+"average_heartrate": 132.0,
+"average_speed": 7.152,
+"source": "strava",
+"streak": 2
 }
 ]
