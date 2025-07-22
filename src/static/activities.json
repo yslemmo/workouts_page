@@ -3106,7 +3106,7 @@
 },
 {
 "run_id": 15139992375,
-"name": "\u7ae5\u8bdd\u516c\u8defDAY1\u5353\u514b\u57fa\u571f\u53f8\u5b98\u5be8-\u5237\u7ecf\u5bfa\u9547\uff08\u6d77\u62d4:2676-3268\u7c73\uff09",
+"name": "\u7ae5\u8bdd\u516c\u8defStage1 - \u9a6c\u5c14\u5eb7\u7ad9",
 "distance": 62527.5,
 "moving_time": "2:13:05",
 "type": "Ride",
@@ -3121,7 +3121,7 @@
 },
 {
 "run_id": 15151284170,
-"name": "Morning Ride",
+"name": "\u7ae5\u8bdd\u516c\u8defStage2 - \u7ea2\u539f\u7ad9",
 "distance": 63144.2,
 "moving_time": "2:34:33",
 "type": "Ride",
@@ -3136,7 +3136,7 @@
 },
 {
 "run_id": 15160722596,
-"name": "Morning Ride",
+"name": "\u7ae5\u8bdd\u516c\u8defStage3 - \u82e5\u5c14\u76d6\u7ad9",
 "distance": 48366.6,
 "moving_time": "1:30:07",
 "type": "Ride",
@@ -3151,7 +3151,7 @@
 },
 {
 "run_id": 15171887097,
-"name": "Morning Ride",
+"name": "\u7ae5\u8bdd\u516c\u8defStage4 - \u83b2\u5b9d\u53f6\u5219\u7ad9",
 "distance": 23168.8,
 "moving_time": "1:16:53",
 "type": "Ride",
