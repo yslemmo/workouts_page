@@ -3241,7 +3241,7 @@
 },
 {
 "run_id": 15210333742,
-"name": "Evening Ride",
+"name": "\u591c\u722c\u9f99\u6cc9\u5c71",
 "distance": 31419.2,
 "moving_time": "1:24:25",
 "type": "Ride",
@@ -3268,5 +3268,20 @@
 "average_speed": 7.686,
 "source": "strava",
 "streak": 10
+},
+{
+"run_id": 15220820924,
+"name": "Morning Ride",
+"distance": 7110.6,
+"moving_time": "0:21:51",
+"type": "Ride",
+"start_date": "2025-07-24 01:54:45+00:00",
+"start_date_local": "2025-07-24 09:54:45",
+"location_country": "\u91d1\u6849\u8def, \u5927\u9762\u8857\u9053, \u9f99\u6cc9\u9a7f\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610101, \u4e2d\u56fd",
+"summary_polyline": "w{syDiyzzRm@hDBZJXZPZJhJxA|EdAnBz@n@j@lIpEjI~E?Wi@e@{C_BmC}AcCsAsFeDOU{Cu@eCc@qAMsEgAeFaA}G}@o@KeAGmAOa@Ga@MyBUsCL_@?_C^_BB_AAwAOuA_@qAk@aAk@o@Ka@KS@_C|DwA|Bq@`AcC`EcOdUkApBo@z@sHfLiEpGwA|ByBbD_@t@GDe@SO?UT}B`EoC`Ge@|@i@`@iBjEo@`B}CtGyDnI}@jB{@zAu@zAMTSLe@@WG]]aA{Aa@}@{MyR{@kAm@g@eAg@{@S_BKsFMaD@sBUcFOMIAOFo@@qBCMB@?d@G`@@n@Gd@KTMFmIWKMC[@}AT^",
+"average_heartrate": null,
+"average_speed": 5.424,
+"source": "strava",
+"streak": 11
 }
 ]
