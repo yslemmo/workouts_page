@@ -3283,5 +3283,50 @@
 "average_speed": 5.424,
 "source": "strava",
 "streak": 11
+},
+{
+"run_id": 15227739087,
+"name": "\u5348\u95f4\u9a91\u884c",
+"distance": 1905.9,
+"moving_time": "0:05:27",
+"type": "Ride",
+"start_date": "2025-07-24 22:32:49+00:00",
+"start_date_local": "2025-07-25 06:32:49",
+"location_country": "\u767d\u9e64\u897f\u4e8c\u8def, \u5dde\u540c\u8001\u623f\u5b50, \u5927\u9762\u8857\u9053, \u9f99\u6cc9\u9a7f\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610066, \u4e2d\u56fd",
+"summary_polyline": "cnzyD}ywzRIpA@JHT^R@Fr@Fh@RfAF~ACJFVAXBJAX@JDHC\\DZ@B@nCFTDFANB@DpA?tCLVD\\CVDnBBbADT@JJ`@ANBr@Vb@XXXPNDJHDNZZd@h@j@TDJV@HJFXh@Fh@NPH@FH`@l@BJ\\`@z@tAAFDHTRtAtBALd@`@LRj@n@@JJF?H^b@LRZ`@DVGN@fAERUd@EFMFORc@nAi@p@SZOL[f@e@d@g@p@]d@MVaCbDWZe@NB@A?",
+"average_heartrate": null,
+"average_speed": 5.828,
+"source": "strava",
+"streak": 12
+},
+{
+"run_id": 15227947109,
+"name": "\u4e4c\u5c24\u5bfa\u722c\u5c71",
+"distance": 2044.4,
+"moving_time": "0:31:36",
+"type": "Hike",
+"start_date": "2025-07-25 04:46:07+00:00",
+"start_date_local": "2025-07-25 12:46:07",
+"location_country": "\u6fe0\u4e0a\u5927\u6865, \u5927\u4f5b\u8857\u9053, \u5e02\u4e2d\u533a, \u4e50\u5c71\u5e02, \u56db\u5ddd\u7701, 614000, \u4e2d\u56fd",
+"summary_polyline": "ulhsD{wjxRMHEH@HCAAD?LD@BBCIBI?EDICHDEBD@C@BABBAA@HEA@B@?JEZD^BDF\\XVCHKDURKDDECB@A?B@?AB?HC@@?O`@IR?AC?CH?XC?@@EG?ACBCC@XC@GEBGCA@??CB??BCBACBBAA?DAA?BCEI@ABBBA@B@AD_@DGE@NEBIECFHJGVIJMHA??CECID?GEID[JMCICCJKCBAC?MAB?BC?A?EOEBDIAJ?EB?I@BUCCGMAMFBAQ@JCGEDBDDDBELFLB@B?GFD?ICJ@XEUBD@QCP?EEE?CEN@FEMBCCA@ACEBGFDK@ACCBAAABAEM`@CFAMGLXM?JEDHZ@KB?ECDDADBD?CAHJGDMI@CDD^GHBLAJKTQJCDHHUED??C@@C?@??D@IABBA?@@GDEADI?SFCFKBCD@I?DG@@CD?TME@FE?CJDTIBB@BAJKHHDFG?K@FDEF?HCFKFALKDADBNA@BJIJDBIDBLEPCVQPC?CFGJEFKLCJk@B@RMFAD@@AFAJB?ADADEFMXWBG@@@CHC@EB@@CB@NEJMHWHEDGHEDGN?JSTWNEFEHA`@YV[j@a@BM@B?AD?CCCH@C@HNDEEBGPQJEDKFK@@HKRIl@k@EUEi@@CCM@UGYA?i@w@QMKSIEFCGECBK@Q?GEFEG@B?DD@?KGCEBCAO@LC@@A?BF@AEDIKD@AB@?ACACD?E?HEEJmAAMPwAAMEOIIQGCCA@CEYMEAMJ@QCCBJC??CBCAEID@@BECDBA?D?EA?@BAC@ABJAE@AABAE@@@CA@A?",
+"average_heartrate": null,
+"average_speed": 1.078,
+"source": "strava",
+"streak": 12
+},
+{
+"run_id": 15235558606,
+"name": "Morning Ride",
+"distance": 3728.7,
+"moving_time": "0:09:56",
+"type": "Ride",
+"start_date": "2025-07-25 21:11:16+00:00",
+"start_date_local": "2025-07-26 05:11:16",
+"location_country": "\u6d2a\u6cb3\u4e2d\u8def, \u5927\u9762\u8857\u9053, \u9f99\u6cc9\u9a7f\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610066, \u4e2d\u56fd",
+"summary_polyline": "ulzyDquwzRp@DhFN~FTrQh@r@Fl@PdAj@n@p@`EjGxAnBz@|@tEvGp@r@h@p@TJb@Bf@KRObA{Bl@{@~@kBbBwDp@eBx@iBfCkFVs@Ps@j@kA|@cCf@o@l@aAbAaCbE_IxAqBt@qA|A_CbAeBrDmFvNwTzD}Fr@aAdBuCAFQJA]Vg@BOEQeAu@OQGYDa@V{@",
+"average_heartrate": 129.3,
+"average_speed": 6.256,
+"source": "strava",
+"streak": 13
 }
 ]
