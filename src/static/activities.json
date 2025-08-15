@@ -3613,5 +3613,20 @@
 "average_speed": 6.288,
 "source": "strava",
 "streak": 10
+},
+{
+"run_id": 15453302406,
+"name": "\u9a91\u53f0\u5b50",
+"distance": 22738.9,
+"moving_time": "0:42:40",
+"type": "Ride",
+"start_date": "2025-08-13 12:52:36+00:00",
+"start_date_local": "2025-08-13 20:52:36",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": null,
+"average_speed": 8.882,
+"source": "strava",
+"streak": 1
 }
 ]
