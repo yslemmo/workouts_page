@@ -3658,5 +3658,20 @@
 "average_speed": 8.014,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15500919616,
+"name": "Zwift - Terrain Toner in Watopia",
+"distance": 12770.2,
+"moving_time": "0:26:21",
+"type": "VirtualRide",
+"start_date": "2025-08-18 13:41:41+00:00",
+"start_date_local": "2025-08-18 06:41:41",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "bv_fA}xbz^}AQWMUWSe@m@mB}@kDGg@@i@n@{CFcAIe@Oa@yAgCEi@L]TU\\MjBNb@INUD[FsCLk@TUXKfA@fBf@|Ax@RRHXEhAFZXPx@Db@XFJA\\y@zAI\\D^\\f@j@R`ABlFa@ZM`A_Ab@q@Pi@@OI]m@_AM]Iq@B_@Xe@hBiAVg@Lm@BmAMmAg@cBq@_Ba@q@q@u@wAmAwA{@OYEm@H{@TiAPm@Xi@TYZQrBg@j@[`@g@Tm@Hs@@c@Cu@Ms@c@y@iCaCQ[EQBO\\g@nA_AN[?a@W_AHq@f@{AnEoKvAyDZwAH{BEm@G]c@q@s@_@wDgAe@Y_@_@i@_AWy@I{@Fm@Pi@hAgCvBcEj@sAf@uAPoAN[JKhAa@nAM^FvAl@^@^C\\Mb@c@t@gB\\g@LG^GrAD^ClA_@d@a@Vk@P}@Bq@Eo@]u@oBgCMWEYLe@V_@j@_@d@Qv@AXJVPdAxAfDzFf@d@`@NP@`@Kz@{@L_@RmA\\eAPYLEj@Bv@Vd@ZZd@Jl@MzBHl@`@^jBx@Rh@@\\G\\QXwA`@g@VUVOl@GnAFtECdBQtCw@|IKdCD`@h@fArCzCN\\H~@VTtBBnA^p@FpASxEwAtCo@j@?d@TRTZfAVfCVbFJvEEzAMj@[b@iAt@OXGl@?jBPhCXfB^r@`@Zv@Vl@BzAM\\Jd@XZJnBL~@V`An@`@`@JZJxAFZn@v@XLN@LAXQZg@pBqGn@_Bf@c@r@Cz@\\~@r@J^DvAN\\NFb@DhBGdANZR^f@`@x@X|@NnADnAG|@Yt@]\\g@\\qHvDaAl@WZMXGb@GpAMZYPs@N]Nq@p@]l@I^?`@Jj@^bAR^PNz@PNNFb@?d@Kp@uCdCk@ZW?MEWw@g@_@eAI_@FMT?Xh@j@DJSn@?XDj@GVWRa@JqCK_@BYN]l@EbAGRaBx@O\\O`AUXWL[@UIQ]AWJ[n@w@Ne@Ge@Wo@AMBMv@]LKFOAa@]o@k@c@qAi@c@?_AXe@ZQ\\@d@RhA?RGPKL_@F[OSYs@aBSw@ASFg@x@{AFi@Ak@OqAYu@CS@y@Fe@JMN@`A\\t@F",
+"average_heartrate": 143.2,
+"average_speed": 8.077,
+"source": "strava",
+"streak": 2
 }
 ]
