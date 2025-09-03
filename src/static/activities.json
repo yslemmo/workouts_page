@@ -3793,5 +3793,20 @@
 "average_speed": 3.204,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15671318629,
+"name": "Zwift - Garmin UNBOUND Gravel Training Plan | Chase the Chaise in Watopia",
+"distance": 30232.2,
+"moving_time": "1:01:17",
+"type": "VirtualRide",
+"start_date": "2025-09-02 13:16:45+00:00",
+"start_date_local": "2025-09-02 06:16:45",
+"location_country": "Puma, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b / \u7d22\u7f85\u9580\u7fa4\u5cf6",
+"summary_polyline": "b_`fAcg~y^sD_BsCaC}AoDa@wCJuAd@}@tG{Ev@cAQeAcCgBUk@N]rBm@mAqKC{Bl@aDlBoCfCsA|C{@hSwCtAkAbC}FzAkAnBo@xBAjBl@fA|@hEvFdAf@pALnIcAx[{IpAIr@b@EjRqBnJ}@xBGdJ_@zAoB^iH?}@qAmCkJ{@mAs@c@}@?_Ah@e@`AIx@TtAdHdOiAl@gKzAs@l@Kt@Z^h@FhKqAt@BJRoAh@cLbASn@NVjALjD_@~BDfCr@\\jDvBtCPz@Ov@gCx@Al@dApCdBNXh@_@f@{AEo@XN`@r@TCp@y@FkBq@qB\\y@f@}@pAmChBk@~@y@fDo@`GAbCj@~Ja@tFw@fCwEnI{BtBo@fDs@`AwBlAiB`@{FCSMv@o@jC]Eq@i@_@yFlBkAYsCaCKg@PsBnAQV]H_Eq@_EiAk@kAh@cADeApBqALc@a@iBcFXiB|BwCPkA~@eALm@eGyQU_Cp@aAx@SnATnBfBd@UAi@oEkKoBmAcHuB{DcCqBqCkAyEDiB\\}@fHmFp@aAO}@mCqBOg@T_@dBYHYoAuKAcBVsBpBwDjDmBxEeAfNcBfBk@bBsBdBmExAiAhBk@zBCnBn@dAx@lE|FlCp@zIeAp[yIpAIt@f@CxQmBpJgApCCvI_@~AmB\\eHB{@eAwCaK}@mAw@_@{@B}@l@c@`AGx@VtAdH|NsAp@_KzAu@j@It@Z^h@FhKqAt@BJRoAh@kLdAIv@`BZtF]lDl@Rd@PlCtBtCRfAa@x@mBd@Ix@`AhCl@V~@ARj@a@b@}BDGb@hAr@K`@y@DkBq@qB\\{@h@_ArAmDvCy@|Cu@jGCzCj@xJKrCc@dCi@~AuEnIwBlBcAhEiDzB}AZyDYqAJCQp@_@nC]@i@o@i@yFlBkAYsCcCKe@PuBpAOT_@JkDi@eEs@o@q@Cw@d@oAJu@fBmARg@YoBoF`@wBpB_CX{AhAeBiGiRSkBf@aAlA]nAXbB`B^GJ_@wCcI_AcBeBeA}GqByD_CkByBsA_EMqBXaBpAsAhFoDj@gAY{@}B_BUg@Le@lB[F[oAyKPiEfBqDjDuBzDaA|KqAtEcAlAkA~BuFxAkAhBm@pBExBl@jA~@hEvFhAh@rAJlIeAp[yIrBB\\pAIfOc@hDuCvJQvKe@h@cAJeI?w@mAuCyJmAuAgASgBjAWtBTfA|EdK",
+"average_heartrate": 142.9,
+"average_speed": 8.222,
+"source": "strava",
+"streak": 2
 }
 ]
