@@ -4438,5 +4438,20 @@
 "average_speed": 6.207,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16321470830,
+"name": "MyWhoosh - Dust Trail\uff08\u9aa8\u6298\u540e\u9996\u6b21\u6062\u590d\u9a91\uff09",
+"distance": 13908.8,
+"moving_time": "0:26:46",
+"type": "VirtualRide",
+"start_date": "2025-11-01 13:11:35+00:00",
+"start_date_local": "2025-11-01 06:11:35",
+"location_country": "\u0627\u0644\u0642\u0648\u0639, \u0627\u0644\u0639\u064a\u0646, \u963f\u5e03\u624e\u6bd4\u914b\u957f\u56fd, \u963f\u62c9\u4f2f\u8054\u5408\u914b\u957f\u56fd",
+"summary_polyline": "cosmCebvnIhFtG`BlBh@h@x@j@l@ZbA\\dATvAJdB@lEI~COrAO`C]nBa@dFkAtAQfAEr@BfAJ`D`@vAXzEtA`A^l@Zd@j@\\l@Pb@Hd@Dh@@f@Eh@Ox@]r@g@j@{FnFs@v@]n@O`@Kd@Kx@Ad@@nAHv@Hb@~@zCbBjFVx@Lz@?|@C^Kj@Sh@k@x@u@h@c@Ne@HW@YAWEWIg@[Y_@Wq@Ku@@]B[Ru@vAuDPaA?u@Iw@[q@W]]Wq@Us@Gs@FOD_@NYTWXQ^M^Eb@?t@Dt@d@rGLbAPn@L^Xh@f@p@`@\\p@^nAZt@Dj@?h@EbAUr@[n@c@j@m@f@aAL[P}@HoAAm@Eq@gAeFGaAGwB?gBFeAFs@PeANq@f@_Bh@kA|B{D\\_ARcAHeABs@Cu@Ic@YaAc@oAc@}@w@yAk@w@qAyA{@w@wAeA_C}Ay@c@gAg@g@O[Im@G_@Aq@@aAJo@Nm@Tw@`@q@h@UT_@d@cBbD_AlAm@j@oAt@y@Zm@PoAT_AH_@@q@@q@CsAO_AU{@c@y@e@cAy@c@g@eAwAcA{AuAaBaA}@cAw@uAw@uBaA}@]{Ae@aAUsAOsAGq@@_@Dm@PYTKJWn@Iv@?PDb@Pr@lAlDbAhCTt@Fd@Bb@?f@Cd@Qr@a@j@}D~DYXk@\\_@La@Bq@Cm@Si@_@uAoAgD}ByBkAuAk@cBk@}C}@{@Qk@IkA?[Di@PuA~@i@j@kA~AmAxBu@dB}@hCg@tBU|AQnBIbC@pAB`APbDNpATjAl@fC\\v@Zd@vAtApBbBvJ|IpE|DxI`Ibp@nl@|AlAn@^p@V`AVxB\\fALzHf@zg@xDtL~@bETl@CLCZMXO`@]Z_@Ta@Ne@L_A?i@I{Am@yFiAqN",
+"average_heartrate": 151.3,
+"average_speed": 8.661,
+"source": "strava",
+"streak": 1
 }
 ]
