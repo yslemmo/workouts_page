@@ -4453,5 +4453,20 @@
 "average_speed": 8.661,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16329905569,
+"name": "MyWhoosh - Active Recovery",
+"distance": 19971.8,
+"moving_time": "0:48:34",
+"type": "VirtualRide",
+"start_date": "2025-11-02 10:05:06+00:00",
+"start_date_local": "2025-11-02 02:05:06",
+"location_country": "\u0627\u0644\u0633\u0648\u062f\u064a\u0629, \u0648\u0644\u0627\u064a\u0629 \u0645\u062d\u0636\u0629, \u5e03\u8cf4\u7c73\u7701, \u963f\u66fc",
+"summary_polyline": "o__uCoivuIeErGm@bBUvACrARtA\\`AfAdBhBjBZzAVRv@BXLbAnA\\dAh@rE\\r@j@j@xBfAtBd@nCPjEEn@j@VL^Ep@i@^F\\XT\\Rn@Dn@C`Ak@nCaAlBaAdA_Ad@y@Ho@EaA_@eAu@sD{DaBkAyAa@g@?u@Nq@\\gAfAwBbDoC|FcChGwAfCoAz@q@XgABuAOgB}@gAoA[kAAa@Fo@l@uA|@aAnAw@dEkBr@g@X_@^y@NqA@qAKqA]mA]q@y@m@gBq@g@m@c@eBNwAUe@cA_@sAcAcAc@sAOaAPuC~A}CvBoBzA}A~A[n@Ij@F|IO~A[bAe@x@k@l@cI|Eq@p@s@jA[~@{@lE@d@Jd@AXY\\m@L_@T_B`CUr@KlBZxFAbBQ`Bo@vAq@n@eAf@wF~@sAj@aDfBuOpEWG}FaTa@sBAkAJk@Xa@n@c@v@SzB?j@W\\CND\\l@ZPr@?r@OjBgA|@gAr@kAl@cBVuADcBIiASaA{@oBcAsAyAkAyAs@kB]wA@wA`@uAdAkAtAkF`JgBvBq@b@y@V{@D{@KmAe@aA{@o@iASaAE_Ed@_V@oBGaA]kAy@oA{AsA{Ay@eA]iAQqBDoBf@uAv@m@d@Sb@A~@INaA\\U^c@hBkAnGu@vB}@lBcArAq@h@{@R}@A_Cu@gJ_EsBiAaA{@}BaEm@m@y@_@cAGgANmJdDmEr@yAFqCEmB]aBo@aBiAoAwA}@wAcAuByBgG_ByFAe@Ns@Ee@w@q@Oc@Eu@Bu@^iA~@}@xCiBhA}@bAyApBqDbAeAdA_@p@KzIJfAGlAStB_AvFmEdC{A|CiAnCa@~ABj@Rd@b@xE`KJFxR{LvBk@p@Cl@Lh@b@Xn@F^EdAUp@a@t@qCnD}@xAWdAEjAJl@Xv@d@n@n@b@XHx@@j@Kn@c@v@{@x@uA|@mBv@eCj@yCVcC`@qKTgCRu@Zm@`C}Ch@kBLiBByCU}ODoAT_BlAwClMgUfA{ArAw@rASbBAlBNjB\\n@Vp@f@rBnCjAfA~@`@xAHzAU~AcAt@_AhBsDv@w@r@[nAUrCGzBFxBVfDv@rAl@|@t@bAbBlAnEXf@l@h@vFxChBt@~@Nb@?n@MlAu@jA_BzBuD`A_Av@Yz@K|CC",
+"average_heartrate": 36.5,
+"average_speed": 6.854,
+"source": "strava",
+"streak": 2
 }
 ]
