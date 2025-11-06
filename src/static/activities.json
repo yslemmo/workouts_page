@@ -4468,5 +4468,35 @@
 "average_speed": 6.854,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 16362690480,
+"name": "MyWhoosh - Base Miles #1",
+"distance": 6954.5,
+"moving_time": "0:42:07",
+"type": "VirtualRide",
+"start_date": "2025-11-05 12:00:15+00:00",
+"start_date_local": "2025-11-05 04:00:15",
+"location_country": "\u8db3\u67c4\u505c\u8eca\u5834\u5bcc\u58eb\u516c\u5712\u7dda, \u5c0f\u5c71\u753a, \u99ff\u6771\u90e1, \u9759\u5188\u53bf/\u975c\u5ca1\u7e23, 410-1431, \u65e5\u672c",
+"summary_polyline": "qvxvE{omnYENg@rAKj@Ab@Df@Pp@r@hAPNx@hA^l@XXNXt@~@PPb@n@HDd@l@d@b@FLh@b@NRH@TRp@ZR@@Dp@HDBT@BBh@@NFV@BB`@BBBV?LDx@JRHN?^HPJXFNJPHVTD@Z\\NVDBTn@R~@Dr@?`@C^It@A?Or@MVe@n@MHQPo@V_@@EB[BGBe@@m@FGBa@@WFk@PM?[HiAj@YZQ\\Or@Cd@?d@B`@Px@T`@HDRRD?`@TT@PJv@HBBb@@DB~@JTHN?lA^HJ\\N`@b@Td@Pb@P~@Dr@?f@Cl@Q|@Mb@Wj@]b@y@r@G@[Ri@Ti@ZSFIJSH_@ZI@}@v@QTa@p@Qp@Gd@A`AD\\J`@f@|@TVbAtAJHT^`@d@LHn@o@n@s@JOHIb@e@h@[NC^CjBBl@P|@LjANl@?|AS\\AzAY^CvBo@NAvAm@LEnAy@t@i@VYLGJOLG`@g@JIn@q@vAmBR_@`@e@HSh@u@VUVTzAnBf@b@LBf@Gn@QZALEVABCXABCb@?BBP@ZL@BBBP^F\\ATIb@e@t@IV?ZJPHDj@?BCNAPMLC\\YJAHITCBCL?LDPRHj@AnAKn@M\\KPETBZPXJBb@?d@IPKJAJMj@c@`@ML?FDBFB?BXAXUnAKx@S~BIXMVE@M`@?RDNTNH?BBj@Et@?\\@BB`ABBBL@dAARFLV?^KZCDAHC@Qp@Yn@C@IRSVc@d@EJAL@VHPDFJ@p@ADEZA^In@G^Ur@QDCJ?THNJDFBRALMTIFMZSVOZC?]r@CP?RL\\NJdF?b@KX?PJLZAVoB|FEDMXK`@?d@P`@NLRHfD?XCBCl@ABCt@CT@JFFR?NGTQXEBMPOHIJQHSXE@GFGNCZLXHBHHj@Hl@?@Df@@@B^BPJFR?NI\\]p@Ij@AZB\\Vf@D@VZF@PRF@NRF@BDF@LPLBPPJH`@D^ABCL?XKVOLCRSHA\\YJA@CNC@EJA@Cx@A@CF?@Bt@?J@@BT@@DTBFDJ?@BLB?BF@JJH@BDF@JNB?FHB@FLD@@BHHDHFDFNFBP`@DR@hAD\\HRNNF@@BN?@C\\I?ERI?CDABED??CFEFIXM",
+"average_heartrate": 129.1,
+"average_speed": 2.752,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 16362667524,
+"name": "Evening Ride",
+"distance": 19921.1,
+"moving_time": "0:40:24",
+"type": "Ride",
+"start_date": "2025-11-05 11:59:24+00:00",
+"start_date_local": "2025-11-05 19:59:24",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 80.7,
+"average_speed": 8.218,
+"source": "strava",
+"streak": 1
 }
 ]
