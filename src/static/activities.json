@@ -4498,5 +4498,20 @@
 "average_speed": 8.218,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16384092384,
+"name": "MyWhoosh - Sweetspot Training",
+"distance": 16022.6,
+"moving_time": "0:41:03",
+"type": "VirtualRide",
+"start_date": "2025-11-07 13:31:55+00:00",
+"start_date_local": "2025-11-07 05:31:55",
+"location_country": "\u0627\u0644\u0642\u0648\u0639, \u0627\u0644\u0639\u064a\u0646, \u963f\u5e03\u624e\u6bd4\u914b\u957f\u56fd, \u963f\u62c9\u4f2f\u8054\u5408\u914b\u957f\u56fd",
+"summary_polyline": "wyymC{|pnITLHP@VCPOTQFQ?SGMMQu@U[wHeEgHoDcA_@qAYk@U]UOSKUAYr@aC~Qot@lM_g@Tk@X]PI^MbA?zBl@`BJnAG~@Ol@OfAi@lA_AVYz@sAVW\\Ip@@XQb@c@Zi@BQ?gAFOVWrFqEfIeGrCqBfAi@zAc@~AS`B@|ATfAh@p@l@~@pAd@nATpAFtACtAOlCILoBEaAL]LYTSZM^It@Dv@Pr@dDhJHn@BjAGh@GVSb@]d@cE`Es@f@q@PY@q@Gm@W_@UoC}B_BgA}BoAsDwAwAc@cBa@IFQd@W`@c@Ps@FEJAXe@t@Gd@Dh@Rb@\\VXFV?ZIXSLUHS?i@Ka@[]_@Kc@@_@RS`@Cf@Jb@TX`@H`@CZWFMDUAc@U_@]OU@WHQTEZ?LDNVNLAHIH_@FKLCLDDNCJGHSA_@[M?MJ?RJJN?JKJc@LKNENFHL@RCPIRMLQHSBi@IOMMUEW?YDWNURQVGV?VDTNNTJX@XEZKXQPUNYDq@KUMOUIUCY?YFUHUZa@@UIS{@I_@UW]QG]VkApAk@x@kAtBk@lAs@nBg@`BYrASvAUlCExA@|BHjBLjBVfBp@tC\\`Ar@`An@n@rTvRlw@hs@lD|CrAdAx@^tA^pDh@xLx@fg@tDHKd@oHEc@EMYUm@IO@[LSZg@|AYRo@L_@EMGYWkBeCa@{@WcAWo@S[m@s@m@wAQSWDSNMTCZDXLb@^j@b@^F^E`@IHMDa@Ee@Wi@o@Sc@Ki@C}@H}@J[PShByAXYJWBUEWMEm@D[TU`@SNeBr@M@MEWSEM?]NWp@[h@q@To@VeAJYV_@^SPClCQXMP_@C]KQQMUM{@SoAOWMMYC]?aADe@Hc@Vm@z@_ARi@?QGS[m@MK{@M_DIWBSNc@L{@FYEaBi@{AEYEIGGKKgAEISU_Ao@[_@OWm@kBc@w@OO_@C[HEFCN@PHVv@r@Zx@F^?NKTMDYKMo@QYuAcBQ}@@cACQIKKCg@@WLKTGp@BZNn@dAdBb@lCNn@X^j@ZHNBNCVORO?WK_Au@]o@_@oA[i@WIY@m@PYBWIIGEKNu@CgA?k@XuABa@G]Q[UIM?KFIJCL?n@CVWbAQf@g@\\y@T}@Js@IuC_ASKO[?WBSVSh@Cb@X",
+"average_heartrate": 17.3,
+"average_speed": 6.505,
+"source": "strava",
+"streak": 1
 }
 ]
