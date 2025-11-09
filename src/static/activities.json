@@ -4513,5 +4513,20 @@
 "average_speed": 6.505,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16392426037,
+"name": "MyWhoosh - 90 Minute Endurance",
+"distance": 38064.6,
+"moving_time": "1:31:08",
+"type": "VirtualRide",
+"start_date": "2025-11-08 10:02:15+00:00",
+"start_date_local": "2025-11-08 02:02:15",
+"location_country": "RAVeL 2 Ligne 150B, Houyet, Dinant, \u90a3\u6155\u723e, Wallonie, 5560, \u6bd4\u5229\u65f6 / \u6bd4\u5229\u6642",
+"summary_polyline": "iiiqHocq]kEnHQl@AfAdAdP\\d@fAf@jCn@x@m@bGeIRmAUiJD_AdCuEjBmCf@KhCt@rE}Fp@e@|LjBp@b@FrAi@bKSpAgBpDmHhLUv@Df@`BzDh@v@nEa@fD`@tLdHrInCtEtClCpCz@jB|@~CxCnGzBtIXbDDzLZ`Cx@bCPtA?xAQtAWv@}AhBcYhWsAf@cBQ{AkAeAqBgDkTe@cBwAyCeQmXaHiH}AaCyHgH}HeDmMiG}BDcHtCoDIoAq@iAiAeQ{TsBmB_Cs@uCM}BZkDjAoBpA_B~AcF|GsApCgA~Ec@fDwAzSRfK`C~F~@zFbAbYb@pBfDtGjApAhH~D`D`BdABfNiHt@eA~CkHz@oAlRcKfCe@bDhAp@j@jAlB`Oh]Xz@FdAQxAu@rAy_@~c@_BRkMD_CRiC`AiDrBuCrBaEtDiA\\uBFwB[uMwFiB_D}@gAw@e@}Cy@cEsDsH{CyEq@a@a@aBaEu@aAgJmDaKeJwJoGuB}@mBC}Cb@iXhHkFtEsAh@eTbC}AUiMoQs@}Aw@{K_AwGUwDB}Cx@kHB}AMiCo@eEk@}AwA}BqA{@cCMwQpF_AbAyGjM}AzAyAl@mHd@wG|AmBBiAo@{@qA_@oB]yEEkER_D~CsNf@aH^iCn@cBjEoIzJwKfBy@tCqEhCeCnGsIvFoDlGkFTc@b@}Ch@aAdJ_GfBu@dA?\\TfCbGnAvBxAjGfC`F~E~M~@`Bf@Mj@s@bJsNrFcF|@SlAJtEvBhAP`Bk@nBkBhEiIZwCBeFUsAo@yAkDwDeCqIs@wAcAk@wAYaBXmQdSmAb@uAs@aAsBcCsJMeAByBTyAp@}@~[wRzA}ARsAEsCsBeSiAmGgA}CEWNk@bKfBnDStJiFvEiFtAQ~Dh@fAx@t@dA\\hANvAZzNNpAf@n@vAZtYWh@e@v@wAhCiHbC{EdFgBj@@jCpG|An@P\\lBdHrAG\\HzAdD|E~HnErEhMrRhIxHhCbDbDzA~OvR^Dj@a@nMcUV]LJpFhKLdAe@bCiMzSaAvBFtDt@nL\\p@rAl@dBj@v@MzGyIZqAUsJFeAnF{Ij@K`Ct@|EeGj@]`N|BRb@Bp@i@dKU|AeA`CiIrM[z@Dl@hCnFjE_@~CXrLdH`JtChElCfC`C`AhB|A~E|BrE`CxI\\tDDzLd@xCx@fCF`D]jBw@jAiYvWuBjAmBOaBsAiAaCaDcTyBoFiPiWwHeI}B_DcIiH}F{BmMqGwCCuHzCgB@mAYeAq@iBsBmNsQ",
+"average_heartrate": 98.9,
+"average_speed": 6.961,
+"source": "strava",
+"streak": 2
 }
 ]
