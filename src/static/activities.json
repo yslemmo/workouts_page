@@ -4543,5 +4543,20 @@
 "average_speed": 7.895,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 16424180481,
+"name": "Evening Ride",
+"distance": 14678.7,
+"moving_time": "0:31:10",
+"type": "Ride",
+"start_date": "2025-11-11 12:31:47+00:00",
+"start_date_local": "2025-11-11 20:31:47",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": null,
+"average_speed": 7.85,
+"source": "strava",
+"streak": 1
 }
 ]
