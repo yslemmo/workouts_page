@@ -4588,5 +4588,20 @@
 "average_speed": 6.79,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16464411446,
+"name": "MyWhoosh - 90 Minute Endurance",
+"distance": 38775.9,
+"moving_time": "1:30:07",
+"type": "VirtualRide",
+"start_date": "2025-11-15 10:59:08+00:00",
+"start_date_local": "2025-11-15 02:59:08",
+"location_country": "Kokereelstraat, Pensemont, Ruien, Kluisbergen, Oudenaarde, \u4e1c\u5f17\u5170\u5fb7\u7701, \u5f17\u62c9\u8292\u5927\u5340, 9690, \u6bd4\u5229\u65f6 / \u6bd4\u5229\u6642",
+"summary_polyline": "qhytHuhjTvEzPpRiPp@cANmAA}@_@wA_AkA_AmBaAqE}Lac@SqA_BcYY}ByPwXq@kBw@{E_@wFAqKmB}b@yBqV_CiSyHmb@Dk@v@gC@k@_CyHq@cHM_GyCyHQ}@`@gMe@qI?yE\\aED{Ee@yGgAiFmAwIuEgMw@aGmBoIoEsLR}F|CsZ@aDc@cDu@wBe@o@iCkAeNgEcBIwFHwAy@gA}AmD_HqAkDoR_w@aAuAmCcAu@m@_EoOaB}CuB_AgFNyBo@{@eA}DaHyGgDiEwFuCeAcBGeAVmAp@yDfDyBz@_CAkFaAsEh@m@r@i@zAe@pCUxCA|C`@~L?hEk@|GuB~NWhE@`Dj@tIr@lElAhFvC`JpArBnApAbJdFrCbChBxBdArBv@dCVbD@tCMlAm@xBuCrFcAfA}LxJcBhB{BnEiFxMvFdI|DjEtCbAvPbDdEtCnAfBl@xBPtCB~JZ|BbAdAzI~DBXyBtPaBjKcDlMy@|E?lB^dBnDtGhA~@v@A|HiHnAi@jBZnIdE`C@|@]v@s@lFyHpAoA|@Wl@Nr@v@dH~NVxAMnCi@dBgWdd@zFpLBxAa@fBaOdWMxAdAvPz@x@vDfAf@[rFkHf@_AJcAUqJHaAhCyEjBiC\\GdBr@n@AnEaGf@_@jNdCPf@AhAg@jJ[pBuAnCcH|Kg@hAAl@nC`GhE_@xCVhKlGdKlD~EzC`BzAnAlBxA|EjDvHxBxJNpO`@`D`AdDBpCUzA]v@uKjKGf@dYpgAXAz\\sXn@Bn@x@nEvPN?jQeOpAeBLyAK{AuAwB{@eBkB}HyK_`@YaCuAaWe@cDiPyWo@}Aq@oDm@gH?uKiBab@{B{VgC}TsHoa@@q@t@{BBgAyAeEg@uBo@sHGsEc@_B_CuFIk@^aLGaD]}F?wDb@sHAeD[sDoAoGuAmJaEmKoAwIeBgHkEiLVwGxCcZD}AK_Cs@{Ck@qAi@g@_IwCcIuBiHJyAu@kAyA{DyHaAmCuRiw@gA}AiCaAu@o@mEiPyAgCuBy@iFNyA_@mAmA}DeHuGeDcA}@kC}DeCcAmBK{A\\aGtE_Cz@cCEyE_AkEb@q@n@c@hAk@pCUfCGdFb@lMGpEm@pGeBnL_@nFFrFh@~GnAzGfAjEhBtFfApB`CjC~GnD~BbBrCxCfAjBrAhERpC@nCYvBc@vA{CtF}M|KmCxCoInREj@jH~JbCdCfC`AnQlDjBdAbC`C`A|BN|@PvD?pI\\zBf@r@rJjEFRcCzQ",
+"average_heartrate": 5.7,
+"average_speed": 7.171,
+"source": "strava",
+"streak": 2
 }
 ]
