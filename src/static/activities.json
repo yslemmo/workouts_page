@@ -4699,7 +4699,7 @@
 "name": "Afternoon Ride",
 "distance": 49344.1,
 "moving_time": "1:54:00",
-"type": "Ride",
+"type": "VirtualRide",
 "start_date": "2025-12-03 08:13:21+00:00",
 "start_date_local": "2025-12-03 16:13:21",
 "location_country": null,
