@@ -4903,5 +4903,20 @@
 "average_speed": 8.299,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16902700849,
+"name": "igp\u8bfe\u7a0b",
+"distance": 21821.5,
+"moving_time": "0:48:27",
+"type": "Ride",
+"start_date": "2026-01-01 12:29:26+00:00",
+"start_date_local": "2026-01-01 20:29:26",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 152.4,
+"average_speed": 7.507,
+"source": "strava",
+"streak": 2
 }
 ]
