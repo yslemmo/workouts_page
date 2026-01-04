@@ -4933,5 +4933,20 @@
 "average_speed": 7.731,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 16921348777,
+"name": "3h LSD",
+"distance": 71558.8,
+"moving_time": "3:11:30",
+"type": "Ride",
+"start_date": "2026-01-03 07:31:01+00:00",
+"start_date_local": "2026-01-03 15:31:01",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 140.8,
+"average_speed": 6.228,
+"source": "strava",
+"streak": 4
 }
 ]
