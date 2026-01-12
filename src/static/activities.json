@@ -5008,5 +5008,50 @@
 "average_speed": 6.812,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 17007881384,
+"name": "Afternoon Ride",
+"distance": 14691.8,
+"moving_time": "0:26:21",
+"type": "Ride",
+"start_date": "2026-01-11 05:51:35+00:00",
+"start_date_local": "2026-01-11 13:51:35",
+"location_country": "S221, \u6d1e\u53e3\u53bf, \u90b5\u9633\u5e02, \u6e56\u5357\u7701, \u4e2d\u56fd",
+"summary_polyline": "szbdDkk~aTa@LyCf@_B`@}A\\aSjD{Cn@}Et@i@F_CLaB@_ECiBEoAGiCAQIkCgCyFmDk@c@QUOk@?_@J}@LuC\\gF\\}I@u@IyAOu@{A_FkAkDMq@Qg@MOiA}Co@qB{@}BwCoJkDmLc@qBy@kFi@yCwAiJ]yASYMG]CwACaDAm`B\\sGJeCLgCTiGj@mAF}AA{@@[IUUWk@G_@SmCWmCSgCMmCAiHCkBKkACuFG[GKICK@GHEJ?|FDhGCpCFlDLnB\\jD`@fFARKf@a@r@MLQHsCRiK|@eBLyB?mCKkCQqBSsBk@_Aa@o@_@Y@GDCH@JXPfAb@lBj@~B\\|Hb@jABpCGlOsARBbAn@X`@FRBj@MxCs@zKO|F@pW@fALz@DpA?zBC`CBfPDbCCn@DZDFH?DIBKC}G?oWEgP?mGB}DLuDn@uJNsDFi@T{@^u@\\]d@OrR_BxCKzCG~CC~C@taAQbDCpAE|@IhDEjMAPA@ECIWKaBA",
+"average_heartrate": 165.7,
+"average_speed": 9.293,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 17008067274,
+"name": "Afternoon Ride",
+"distance": 25873.1,
+"moving_time": "0:52:12",
+"type": "Ride",
+"start_date": "2026-01-11 06:24:04+00:00",
+"start_date_local": "2026-01-11 14:24:04",
+"location_country": "\u96ea\u5cf0\u8857\u9053, \u6d1e\u53e3\u53bf, \u90b5\u9633\u5e02, \u6e56\u5357\u7701, \u4e2d\u56fd",
+"summary_polyline": "orfdDm`bbTwCBsBCmDImDCmGDyD?qPHmGAqQBaBAiHBaBAeCPeB@eBGcBBgEXgPtA_@HSVEj@EH]LD[\\u@@Ku@qAI[O{Bg@{EO_CGaCAaGE_AKoA@_CG}DEMGGIAIBIHCJD~J?hBGn@FxA@tBHhCFr@r@`IJfBG`@a@x@SVg@N_CNeJz@_CL_BBaACwES{BQmBa@gA_@sAq@I@GBCFDJd@ZdAb@pBh@dBTnG^~BF|A?zAIdNoA`@D\\P`@f@Xl@D`@s@bK[xFClAEvF@dSD|HLz@@nAAzL@hCDbBCfABJDFFBNKC}BAec@AwBGwDFiNJ}CP}Ch@aIHgCRw@\\s@X[^O~J{@fCWfCQ|FSl@E`C?pBD``@M`H?vb@MnAA|FQjCC^Ap@KfABNGAKSIyGCyFDswATqGR_CPyK~@oDB[QWYO]Gc@SqC[oCSoCKqCC_GKyA?kGEqBAKGIIEI?IDEJA^BfCA`CDfCEnEDrCNjCp@`HLzBAd@I`@e@x@KJ]J_CN}JbAqEHmFSmBKu@IqBc@}Ai@s@c@ICI@GDAHBHVTxBv@bBb@lCVfGXpBBrCObNiAP?^LZX`@n@Jd@?z@{@tMMvCGrCAtXDbG?j@LfA@fO@|BDrBA|@BHDBF?DGB{@A}TEoR@cTJeDx@yMHuCBcCHKd@GLEZCZBtMmA|CWrBKjASjAC`B@zCJzC@|KIxC@pCCzBBlGElC?lWIv@DfCExC?nBC|FQvGGfA?JBHFHV~@nGh@hCx@tFd@fC`AnEvDlMfBjFbDfJhBrFxAtEz@`DDbAE`BW`F]hIGdAKb@c@jD@XFFh@BjDnBlCfBl@n@\\d@TNF@VVDJ^PVHhA?lL@hCGjBM|B]xBa@pCc@vFgApNcCf@M|@Gt@?jCc@PBFTBTLNLBHNNpG",
+"average_heartrate": 156.2,
+"average_speed": 8.261,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 17009884597,
+"name": "Afternoon Hike",
+"distance": 5095.9,
+"moving_time": "1:30:27",
+"type": "Hike",
+"start_date": "2026-01-11 08:51:51+00:00",
+"start_date_local": "2026-01-11 16:51:51",
+"location_country": "\u6caa\u6606\u9ad8\u901f, \u6d1e\u53e3\u53bf, \u90b5\u9633\u5e02, \u6e56\u5357\u7701, \u4e2d\u56fd",
+"summary_polyline": "ckgdDczsaTC@IPW|@Uf@ILWv@KNSh@Gh@m@tAIXI^@RIt@Dh@HPAVENP?FB?DD@FCJBH?BA@IGKHEJH@GH??HFKBD?H@E@LHIB?@JD?BBCBQGC@@?ADBCPB?CLKB@?FDE@JJ?JLLBGEJU?ELBBDBSJVDB?UDBBA@GXSPED?FDRVPh@LVBNHL?@GFBBT@NJ?DEFB@?BHDHNFXD?GBDNCJFBBFLF@HJJJHJNNJD?FF@DD?JLB?@LHALVDRCATD?KBCVJ^F`@RBJJF@HHD@FHBH?@H`@`@?HJNRHBJHFTF@LJLP^DTA@PHBFFB?GBEJLF@LCH@C@JLI@?@FLfBhAJLXh@PRZFd@`@@B@ABBC?CGJBnAn@JFJPRJNBLKNARHb@FFDBCJBDFPJD?BFJDDDRBFD\\^d@rA^PFJJBLXJFBd@j@RHPNLRR?BK@HFBF\\NJCH@LHT@DFAFFAHHADBGCCA@@A^LIJBJJIRFNBFDF?PJF@HFPZ[_@?CG@ICCEOAGICBG?EIK?AEGF@EGEDG?AI?QI?CB??HSI@EECa@GQM?ELAX@`APNAJ?HDPBXKH?d@XL?LEMOEAAEJCN?FDFJN@CCCQGKF?HF@EEGGGUGYUGCOMG]Lc@POGESAEC?CB?EK@CH@JAIASS?GCA?GGI@ANFQKEIMe@HBB?EEPB\\LNCUMAEJ@CGYOCGKEIKMEO[?CF?@CEELBCK@Cr@TKQOq@IKFALDEOD??AEKLBCSF@?GF??CCEOAACRKSELM]BFKVMWIRIYGPMPCFMFCOMKi@IECCBQJEII@AG]Ac@KWAOB}@HSJi@FQFk@FICWGO\\@b@XL@FAFM?EKe@AMFs@NYXc@LIR[Jg@J[NO^?ZHH?BC[Ou@_Ae@IK@OESY@c@CU@aA@IB?ED?INGF@FHD@HE@k@Nq@Ei@_@e@]]Wk@aA}@IUKOmAu@_AaAgC_Bk@i@YMc@Yg@Sg@I]MYS}@a@i@]WUYs@a@uA_@o@EO?c@DON]Dw@?KUu@@a@SeBBYAG@WO]gAgBUk@_A}AIOEa@",
+"average_heartrate": 130.7,
+"average_speed": 0.939,
+"source": "strava",
+"streak": 3
 }
 ]
