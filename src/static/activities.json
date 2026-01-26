@@ -5143,5 +5143,20 @@
 "average_speed": 6.95,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17170652830,
+"name": "Afternoon Ride",
+"distance": 82567.8,
+"moving_time": "3:05:30",
+"type": "Ride",
+"start_date": "2026-01-25 08:16:16+00:00",
+"start_date_local": "2026-01-25 16:16:16",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 149.1,
+"average_speed": 7.418,
+"source": "strava",
+"streak": 1
 }
 ]
