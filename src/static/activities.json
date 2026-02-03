@@ -5236,7 +5236,7 @@
 },
 {
 "run_id": 17248314526,
-"name": "Morning Ride",
+"name": "\u73af\u5c9bday4 \u4e09\u4e9a-\u9675\u6c34-\u4fdd\u4ead-\u4fdd\u663e\u519c\u573a",
 "distance": 187063.0,
 "moving_time": "7:44:47",
 "type": "Ride",
@@ -5248,5 +5248,20 @@
 "average_speed": 6.708,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 17258006777,
+"name": "\u73af\u5c9bday5 \uff08\u73af\u70eds2 \u4fdd\u663e\u519c\u573a-\u660c\u6c5f\u53bf\uff09",
+"distance": 130058.0,
+"moving_time": "5:31:19",
+"type": "Ride",
+"start_date": "2026-02-02 00:18:07+00:00",
+"start_date_local": "2026-02-02 08:18:07",
+"location_country": "\u4fdd\u663e\u519c\u573a, \u4e50\u4e1c\u9ece\u65cf\u81ea\u6cbb\u53bf, \u6d77\u5357\u7701, \u4e2d\u56fd",
+"summary_polyline": "kdspBulfzS}@lw@pItP`QzHjDbH{e@ny@l@bInOl]pCvYn@f`@uKr^fCrTox@|\\kVxUi{@|Qee@n_@mTlAePtOo_@kBaEjDLhJeCrCcOcEsOfBkBxDeBnb@gf@dl@wc@~YkNpUgEdYqI`PS~LaHdLks@|M}ShXk_@vEwVsJeRiP}d@{RcEb@aFhMcb@r\\qC|TyKxZay@fp@{D`h@yPlIcIvTkCfAqAcCf@vCyQ|I`BtFwmArqAea@pZsApK_dAlUwP|Ao^hNqBtFJ~I_DjJdAdPrEdNjBhPdShZjk@pMdFlDdEzMjClm@dIdJtJl^{@rTuWzd@mOtOaXnIa^tYa^zPwWqAqd@zE_WiF_QoMuLfAaBxGdGdLWnGmFxSmMpGoBbP~A|DrMvGhJjW_KzOeCzKeGdF_CtIcGpC_MwCmEh@sXrn@mY`UyJxBgK|Gya@`KiQeAoc@nGkUlNwBbYoG|V_Tn[}Mbk@m[x]sT`_@aInEoEfI}MfLkAjCTlGaChAwE_AiB`ByBhJx@pP`FpNiLzA_HeC}FdA}GtJwD|LcJrFkDjGeQpIaYv\\qJvFu[xZ}VnNwFdf@ad@jH{Ajb@qIzYkVplAaKvp@Z|T}LfN_B`ZoGdHwWrHmOdc@uQ`WyBjGXdEgGbEnF}DCoF|CgI`PoT`Omc@}NyDmQm@gN~H_QrBif@yCuDiDcDDqQuNcYo@_PiF{HuGxJt@tFbD~Ha@eCoEoRaGmEqDqJuAqFhBuFvPwI~DmEpS}Gt@iEgCqArJoHtHsJe@k@~CoCeAuD`AiAoBgXrH}YlAcHcH{BuGkGyCFqGgDqCa@eMyDoBuJzEuMoN{@cJjB{P{O_Wc@{JyEgF}P|BmNm@cHlB_UNeSeNcNiAcj@zGi]_W{T}[s]wr@}CwBa[~@gCrCa@jK{KnPqf@nRuf@nJcG{n@uEoZvCwb@jMeLvBqHo@iMsIi^FkL~BgH`FuFzh@wPzFyRaD}PJyOcUus@yFaFuH}@si@fIaTEsOyDcY_O{b@_Ceo@iMsYuZa\\{OoL_a@wKgIoEaH_OaGsKuWco@m_@oYgVg_@cDcr@kN}XiCe]iLwXhLmaAcSwA~R}GnLhBfN_C`LgTbS_ZhHkPbQeO~IcrAvQyb@jWoOhQgRdIoc@`V{KAsh@vK{SOkTvCqRpLoh@dOgRO{V{HyUnIgNdKoE`I~CzJ_AhHgLbIwTnDc]oCkRfFcZiJ}E}Y{IiPeWv@emAuQcSqMeU}Df@}HbOo^UcKgGuRiCoAsv@_@hA_x@eBws@pAiL",
+"average_heartrate": 125.8,
+"average_speed": 6.542,
+"source": "strava",
+"streak": 5
 }
 ]
