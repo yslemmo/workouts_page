@@ -5251,7 +5251,7 @@
 },
 {
 "run_id": 17258006777,
-"name": "\u73af\u5c9bday5 \uff08\u73af\u70eds2 \u4fdd\u663e\u519c\u573a-\u660c\u6c5f\u53bf\uff09",
+"name": "Day5  \u4fdd\u663e\u519c\u573a-\u660c\u6c5f\u53bf",
 "distance": 130058.0,
 "moving_time": "5:31:19",
 "type": "Ride",
@@ -5266,7 +5266,7 @@
 },
 {
 "run_id": 17270074199,
-"name": "Morning Ride",
+"name": "Day6 \u660c\u6c5f\u81ea\u6cbb\u53bf\u2014\u743c\u4e2d\u81ea\u6cbb\u53bf",
 "distance": 154644.0,
 "moving_time": "6:56:36",
 "type": "Ride",
@@ -5281,7 +5281,7 @@
 },
 {
 "run_id": 17280532343,
-"name": "Day9 \u743c\u4e2d\u81ea\u6cbb\u53bf\u2014\u5174\u9686\u5496\u5561\u5c0f\u9547",
+"name": "Day7 \u743c\u4e2d\u81ea\u6cbb\u53bf\u2014\u5174\u9686\u5496\u5561\u5c0f\u9547",
 "distance": 125335.0,
 "moving_time": "5:26:47",
 "type": "Ride",
@@ -5371,7 +5371,7 @@
 },
 {
 "run_id": 17313650444,
-"name": "Afternoon Ride",
+"name": "\u6d77\u53e3\u9a91\u901b",
 "distance": 14774.3,
 "moving_time": "0:35:30",
 "type": "Ride",
