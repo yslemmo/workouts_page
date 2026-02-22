@@ -5413,5 +5413,20 @@
 "average_speed": 8.125,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17467541197,
+"name": "Lunch Hike",
+"distance": 2198.2,
+"moving_time": "0:36:41",
+"type": "Hike",
+"start_date": "2026-02-21 03:43:20+00:00",
+"start_date_local": "2026-02-21 11:43:20",
+"location_country": "X064, \u5927\u6a2a\u6eaa, \u6d1e\u53e3\u53bf, \u90b5\u9633\u5e02, \u6e56\u5357\u7701, \u4e2d\u56fd",
+"summary_polyline": "_x`eDqxlbTGEI]K@UJc@@]PAJTZMl@GBIA]@QGi@EUBWK[GWAS@MHk@JB?CA@?CIGGEKg@g@OGUGS?KF@??KGEBDAFAGEAE@CDG?_@\\ULyAlA[l@e@d@[j@_@f@]l@Sf@GVQf@GV@LN^FZCPELOFGL?j@CTEB?Hi@nAIJIBIN@FIPWd@CJHx@Ed@BRWRE@@GCDBGBDAELGFcAGi@@Q`@u@BMJQPQb@_AJY?WDe@FSLIDMBMCOIYIM?DAA@??A@BE]Rs@^cALQn@kA`@c@fAaBtBaBTUNEXJ^FjA`ATBNANINCR?|@NVCBFL?b@JXCX@Fe@MYASFMVKZ@b@MH@Nx@FPQDSLBFEC@AB@CPC@BV",
+"average_heartrate": 102.0,
+"average_speed": 0.999,
+"source": "strava",
+"streak": 1
 }
 ]
