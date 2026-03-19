@@ -5623,5 +5623,35 @@
 "average_speed": 7.992,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 17763781766,
+"name": "Evening Ride",
+"distance": 0.0,
+"moving_time": "0:54:33",
+"type": "Ride",
+"start_date": "2026-03-16 12:09:50+00:00",
+"start_date_local": "2026-03-16 20:09:50",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 148.5,
+"average_speed": 0.0,
+"source": "strava",
+"streak": 4
+},
+{
+"run_id": 17764250254,
+"name": "Afternoon Ride",
+"distance": 25564.5,
+"moving_time": "0:55:11",
+"type": "Ride",
+"start_date": "2026-03-18 08:59:47+00:00",
+"start_date_local": "2026-03-18 16:59:47",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 158.5,
+"average_speed": 7.721,
+"source": "strava",
+"streak": 1
 }
 ]
