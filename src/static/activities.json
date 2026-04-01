@@ -5773,5 +5773,20 @@
 "average_speed": 10.08,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 17924887136,
+"name": "MyWhoosh - \u751c\u533a\u9a91\u884c 2\u00d712min - 8",
+"distance": 29357.5,
+"moving_time": "0:57:59",
+"type": "VirtualRide",
+"start_date": "2026-03-31 12:28:20+00:00",
+"start_date_local": "2026-03-31 20:28:20",
+"location_country": "Villanueva, Casanare, RAP Llanos, \u54e5\u4f26\u6bd4\u4e9a",
+"summary_polyline": "}f|Zd~j{Lu@~Bs@jCk@pCeAhG{@zDi@zAm@vAcBbCsClCeHbFcDnCsBzBaFpGuA|AmChCuDvCkCbCyB`C{DdFsArAaAx@uBxAcDbB_BfAcDlAuCv@i@V_BrAcAf@w@Vm@Dw^AmAFmD^}@B{D?yAQkB}@eA_AsJ_Lm@aAOm@E_AC_PCa@QY}@KoB?}i@Bg@KGIC]AkJDk@FKLE`KDd@VpAhAZH`UG\\MhAgAZSlE?VEHIHWDs@E_HEKMEi^?a@KIMGuJIc@YUQC{`@CiBIwBc@sDoAgD{@wBa@iH_AkDu@uC}@}BcAwA{@qA_A_Ay@aBgBsAsBiBqEs@wA}@oAy@s@}AaAeCmB}FuFkEgD_FgEuAmBgBiDkBoCaCoC_FeFaDuDqAwBm@aBUgAKcAEgADgAZgB|A{Ff@iCb@yCH}AAwAQiBiAiIAkBNkBVcATo@p@gArBsBtDgDzBaCxAmB`AiBXcAJcALoHLkB`@{CbA_FIMgKwBmFqAkDmAcB_AyAsA{@qA_@kAGaA@}@NiAXgA^w@l@s@x@s@t@_@j@QhAMnALbAj@nAtAtAjAjAd@tAHz@If@Mp@_@RUl@kATw@PeADwA?}CQqIQ_BUs@S]eAmAaBwAcAg@yAUcDL{@CuBaAa@_@OWMaAGwA?uAF_CH}ATkCPw@Xq@b@e@\\S|@Yn@InBCjARZLjAp@x@bAVt@XhBRd@T\\xEnD`Af@f@Fz@ChD_ApAKp@BvCb@dACp@M\\Qj@w@Xm@J_@Bu@Gc@Ym@q@o@q@YeAMmDLaA?{@M{@]s@c@k@{@Kk@A_@P}@Xi@r@k@`Bg@lAM`ACpGBlELjALhBf@l@\\bBlAXXN^Hb@FnCFn@Nh@`@f@pA`AjBz@|Ez@|A^dBt@`@Xf@l@|@fB|AzDJJ|HeCnD_@|BInDBnBL|@HdI`B~AHhAC|Dg@hE_A|FaAnPwBjCe@xEkAtBa@dAKxACdBLrATnA^pHrC~Af@tGzAvKxBzBp@tB`AfCfBfBfBdFhG`InKfDrDrDhDhD~B`FpCpGnClKtDzD`BtBdAtCjBjCbC|ApBn@bArBbE`BpErAtFx@|EZxCRlCFtBFpJCbJDvANtAl@fBfDvF`BzDvBxGzAbGz@~En@|FL~EExDOnBUfB[jBs@bDcAbDgFrN_AxCcAdE{ArIi@dC[lAaAdCoAtBqAzAcBxAqIdGaCtBcCpCeEnFsBzB",
+"average_heartrate": null,
+"average_speed": 8.438,
+"source": "strava",
+"streak": 3
 }
 ]
