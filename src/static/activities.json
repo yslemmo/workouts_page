@@ -5833,5 +5833,50 @@
 "average_speed": 6.675,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 17962533946,
+"name": "wahoo \u521d\u4f53\u9a8c",
+"distance": 1419.7,
+"moving_time": "0:04:07",
+"type": "Ride",
+"start_date": "2026-04-03 07:40:03+00:00",
+"start_date_local": "2026-04-03 15:40:03",
+"location_country": "\u6d1e\u53e3\u53bf, \u90b5\u9633\u5e02, \u6e56\u5357\u7701, \u4e2d\u56fd",
+"summary_polyline": "{ikdDeyabTdBEfEc@p@Ep@KXQb@k@DGFa@b@QDEBI@UGmAg@yEQ_CEcAC}DAgNGwBKa@OOSKa@GiECgCBSAeBFkA@MDKL@jB?BGB",
+"average_heartrate": 138.5,
+"average_speed": 5.748,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 17962521587,
+"name": "\u508d\u665a\u9a91\u884c",
+"distance": 1225.9,
+"moving_time": "0:04:24",
+"type": "Ride",
+"start_date": "2026-04-03 11:55:20+00:00",
+"start_date_local": "2026-04-03 19:55:20",
+"location_country": "\u4e09\u4e00\u5927\u9053, \u4e1c\u98ce\u8def\u8857\u9053, \u5f00\u798f\u533a, \u6e56\u5357\u7701, 410003, \u4e2d\u56fd",
+"summary_polyline": "_kikD}mupTe@?GFILAb@BZX~AThCBpDJ~BDfCTpGNfC?fALhFFjAXfH?t@C`BH~DCv@\\j@J@?BPCFBJGFk@FE?E",
+"average_heartrate": 134.7,
+"average_speed": 4.644,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 17968657822,
+"name": "Cycling",
+"distance": 8185.6,
+"moving_time": "0:19:54",
+"type": "Ride",
+"start_date": "2026-04-04 00:06:17+00:00",
+"start_date_local": "2026-04-04 08:06:17",
+"location_country": "\u4e09\u4e00\u5927\u9053\u8f85\u8def, \u4f0d\u5bb6\u5cad\u8857\u9053, \u5f00\u798f\u533a, \u6e56\u5357\u7701, 410073, \u4e2d\u56fd",
+"summary_polyline": "ggikDmfspTEVHz@DbC@lCFrABdBCtAZ~F?PKFc@@uE?_A@{@Xc@TOASPCPC^D|BEJIBg@FW?kCQ}AC{CMuEWi@GwAGkDYiEMu@ImAGsBS_@IoFo@gGy@mCc@qAOsBOo@Cq@@cAGa@?s@BgCLkC^iCd@O?CGICgB^}IjBmBr@[FeANoCr@]BWCW@{Bp@qAPsBd@y@N}K~BeB`@q@LKEG?ML]LaHvAoGzAcHxAcCl@o@\\cAPc@Lu@NuARgIbBiDn@WD}@@YF_AHyBZqALoBH}H`@cC\\aBZyBv@{@`@oGvDqFjCwM|Gc@NKAI[CYGO@GB?BF@n@K`@QRwAp@g@N{At@}@^i@\\}BfAU@KAUQOWYw@c@q@SU_B_A_A[s@KaAGs@Ak@FmEm@qCCaAEsHGOJGRAH@Th@|Ap@~AXdARf@p@jADTI^EFe@Ve@RU@GEAEBC@@DPH?NI^KNM@BCHEBy@JKHa@lBmAlIa@xBQ\\UVcBr@_D`B{B`AmEzBk@\\WH?M",
+"average_heartrate": 142.2,
+"average_speed": 6.856,
+"source": "strava",
+"streak": 2
 }
 ]
