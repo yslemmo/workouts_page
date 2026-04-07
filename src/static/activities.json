@@ -5881,7 +5881,7 @@
 },
 {
 "run_id": 17971175012,
-"name": "Cycling",
+"name": "\u957f\u6c99\u98de\u6b66\u6c49\uff08day1 \u957f\u6c99-\u4e34\u6e58\uff09",
 "distance": 178292.0,
 "moving_time": "5:16:10",
 "type": "Ride",
@@ -5896,7 +5896,7 @@
 },
 {
 "run_id": 17984547876,
-"name": "Cycling",
+"name": "\u957f\u6c99\u98de\u6b66\u6c49\uff08day2 \u4e34\u6e58-\u6b66\u6c49\uff09",
 "distance": 188757.0,
 "moving_time": "6:06:13",
 "type": "Ride",
@@ -5938,5 +5938,20 @@
 "average_speed": 5.659,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 17999638355,
+"name": "Evening Run",
+"distance": 997.2,
+"moving_time": "0:05:40",
+"type": "Run",
+"start_date": "2026-04-06 12:59:20+00:00",
+"start_date_local": "2026-04-06 20:59:20",
+"location_country": "\u6d1e\u53e3, X064, \u6d1e\u53e3\u53bf, \u90b5\u9633\u5e02, \u6e56\u5357\u7701, \u4e2d\u56fd",
+"summary_polyline": "ikkdDmxbbT\\IBJJ?p@ChE?dAC\\@TNDHBXCl@AnCBl@LxBZpC@j@L|@@\\H^J|BCPQl@YX[J[@kAPo@?mFj@UASBc@G",
+"average_heartrate": 150.7,
+"average_speed": 2.933,
+"source": "strava",
+"streak": 4
 }
 ]
