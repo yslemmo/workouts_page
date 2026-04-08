@@ -5926,7 +5926,7 @@
 },
 {
 "run_id": 17989318877,
-"name": "Cycling",
+"name": "\u6b66\u6c49\u6cbf\u6c5f\u9a91\u6e38",
 "distance": 28786.2,
 "moving_time": "1:24:47",
 "type": "Ride",
@@ -5953,5 +5953,20 @@
 "average_speed": 2.933,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 18012516418,
+"name": "Indoor Cycling",
+"distance": 31179.9,
+"moving_time": "1:14:43",
+"type": "Ride",
+"start_date": "2026-04-07 11:31:34+00:00",
+"start_date_local": "2026-04-07 19:31:34",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 98.8,
+"average_speed": 6.955,
+"source": "strava",
+"streak": 5
 }
 ]
