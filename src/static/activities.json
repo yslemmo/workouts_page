@@ -5968,5 +5968,20 @@
 "average_speed": 6.955,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 18026604019,
+"name": "Indoor Cycling",
+"distance": 36017.4,
+"moving_time": "1:02:14",
+"type": "Ride",
+"start_date": "2026-04-08 11:51:04+00:00",
+"start_date_local": "2026-04-08 19:51:04",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 126.5,
+"average_speed": 9.646,
+"source": "strava",
+"streak": 6
 }
 ]
