@@ -6088,5 +6088,20 @@
 "average_speed": 10.281,
 "source": "strava",
 "streak": 11
+},
+{
+"run_id": 18119379425,
+"name": "MyWhoosh - 1h Tempo",
+"distance": 23731.1,
+"moving_time": "1:09:05",
+"type": "VirtualRide",
+"start_date": "2026-04-15 13:49:42+00:00",
+"start_date_local": "2026-04-15 21:49:42",
+"location_country": "Zipaquir\u00e1, Sabana Centro, Cundinamarca, RAP (Especial) Central, 250252, \u54e5\u4f26\u6bd4\u4e9a",
+"summary_polyline": "aot]|i{bMhA@^LLXFtJJ`@v@Nr]AV^CdIa@d@sE@wBdBuBFuQBg@MiAgAq@YuJAULEf@?lJFh@f@Lfo@DTRHl@@xON~A|@zApK|LfCtA~ARtFAtGi@vV?JJBdPFb@`@\\fAAz@w@j@}Bj@}FVk@d@a@b@K|@NlFdCfA?ZSR}@Uw@e@]cDeAmBsBa@aAkAkFA{BTo@l@]lCm@`@e@DyCJ{BQS[CyCbA{@FyB]i@u@D_@XQjDVhAYfBuBRi@Aa@i@WeGTeDYkDd@a@[Jc@h@YhEyAxC]bBiA|AuBn@cBN}@GsBLw@f@k@zBgAVk@Iq@aDwH_AmDcBgB{CgBKi@L_BGc@m@WyAh@UM@[tC_Cr@?`D~DtFdEx@TfBGbDz@b@^JxATLp@CxD}An@q@`@_Bk@{BBc@tDsGvAuAbEaBfA_ATuA@sIJm@ZQt@CxLAl@Oh@s@CcAi@m@qBOwG?u@YU_ATw@r@_@nGAz@UNeDrCeBf@y@V_A?uAUcAs@eAw@g@cAUeACqBh@eAlAu@bC]Ng]BOX?nCFl@PZn@NjQ@fAb@Xb@Pv@M`Aq@|@oAVaC?c@POb@?nBO~@[b@y@R{@Gg@g@Oy@CaDc@_AgA]iA\\_@f@QtA?lHJf@\\XjIHrk@Gz@a@Zk@Fg@G{@i@w@kAW}BCu@Uc@i@UuANwAl@_AfAWfBEZSTk@?mf@Ke@y@OgCCkBPK`@GzEu@zAyBhA{QdGwC^{BEqAk@_@gAPoAdAq@nGm@zHqCbHWn@YR_@@a@O_@aAYqJEEeFU_A_Ae@aHCe@]O_ANsA^oAn@uAx@gAr@YvCB~@I~@m@z@oBBk@Mk@mAcBgAuCc@k@iBoA_@qAFaATs@`@_@pB{@Zc@V{AE{BFc@h@W|Ad@|@{@r@If@XP^HnCf@dAl@J`AKj@Y^g@FaAu@oFHyFQyAe@y@mA}@q@OiA?{@Ry@j@s@nC{@p@u@Fs@g@i@Cg@PcAr@{@QWYUw@CaALk@\\i@~BqAjBoC|EwA`@[Xk@@eA_@u@eAs@aCo@qBMoAVeCbDiAXi@c@MkCu@}AiAs@}AJs@f@c@t@i@dDiAvCCvA",
+"average_heartrate": null,
+"average_speed": 5.725,
+"source": "strava",
+"streak": 1
 }
 ]
