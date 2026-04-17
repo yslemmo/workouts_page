@@ -6103,5 +6103,20 @@
 "average_speed": 5.725,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18132055061,
+"name": "Evening Ride",
+"distance": 28643.4,
+"moving_time": "1:03:18",
+"type": "VirtualRide",
+"start_date": "2026-04-16 11:44:11+00:00",
+"start_date_local": "2026-04-16 19:44:11",
+"location_country": "Mendocino County, \u52a0\u5229\u798f\u5c3c\u4e9a\u5dde;\u52a0\u5229\u798f\u5c3c\u4e9e\u5dde, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "c{coF~cxpVOeAk@e@s@RQv@p@tMMjBi@Ta@gJAkJ\\{@p@Gl@T~@nAVOFmAI}Ak@mAaD_Au@XEh_@vAjN^r@`AIb@sADuP^SjMCd@qAFcNX{An@e@bJ?Dl[_@zBmAnC@|M`VLn@p@RdEb@b@`KQb@lATdLpKA^`@lAhEdC|Ez@lCnA|@dAm@tBkHf@gIGsBr@uBc@]sBAq@cAyAg@gBiDkEE{Cu@Ou@Dk@vAyBJyByCmDoC?e@[Us@EoBs@gFDq@V[vCXx@[XwAe@iCm@[gBVwAM}E_CcA_AiByF{BkA]wGeCy@_Aw@}CiGkAcA@u@bAKtAv@|AvCZ?Zu@_AyCgDwCcAQy@Zu@|@_@nAW|BAjR}IJeAv@SxOMfAa@`@wM?O{N]w@s@Oa@\\MlAl@xGBdEQlAg@?]wI?aK^m@|@AdB`BTa@?sAO_Ba@o@yCaA{@PMn@Bd^hBlOv@Rv@iAJuQrNY\\oAD_NZ_BbAe@hI?Hp[WdBuA`DBdNtUHp@Zh@pFnKIh@|@XzLtK?^j@jAjE|BjE`ArCrAz@~@m@xBuHb@wHGyBr@wB_@[uB?w@kA{Ag@cAgCs@e@yDBuB[k@g@B}AxA}BBoB_DmDgCBi@a@W}Cq@{E?o@Zi@rCXdAi@PyA_@oBg@e@kEH}GyDgBwF{BkA]sGa@c@kBa@gAaAwCeGcAw@K[H_@jAG~AfA`A|BZHd@w@QgAu@_BoCaCkA[gA^a@b@s@|BQdB?fRsIJiAj@UvAE|MSbAc@\\wMMGgNSu@{@[i@l@Gp@n@rH@vDQnAc@Fa@sJ?eJ\\w@p@ErBdBTa@?kBUsAm@q@oCu@u@TGd_@hBzOz@Pv@yAHeQhNSd@sADcNX{A~@e@hI?NX?vZ_@tBkAhCDpNvUDn@d@VpE`@b@fKQ^lA^nLdHWhBN~A`F~BlEz@nCrAnAbA_@dCmI`@mHE}Bp@oBY]sBB}@kAoA_@iAgCi@i@eFGcCy@GgAbB{C@mBuCiDqC?m@g@gAyJDy@`@[hCZ`Aa@TsAe@gCi@[iBV{AOeEmByAkAoBgGuBcAKwEWeAkDsA_AkAmBkEqAoAHy@lA@xAdA|@vBZNd@o@?e@k@aB_AiAcD{ByA`@m@v@w@xDAfN",
+"average_heartrate": null,
+"average_speed": 7.542,
+"source": "strava",
+"streak": 2
 }
 ]
