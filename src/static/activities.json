@@ -6268,5 +6268,20 @@
 "average_speed": 8.539,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 18278656228,
+"name": "\u508d\u665a\u9a91\u884c",
+"distance": 29928.7,
+"moving_time": "1:05:11",
+"type": "VirtualRide",
+"start_date": "2026-04-27 11:45:11+00:00",
+"start_date_local": "2026-04-27 19:45:11",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 0.1,
+"average_speed": 7.652,
+"source": "strava",
+"streak": 4
 }
 ]
