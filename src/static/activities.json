@@ -6553,5 +6553,20 @@
 "average_speed": 3.557,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 18783549242,
+"name": "MyWhoosh - Aerobic 12's #1",
+"distance": 30456.9,
+"moving_time": "1:03:29",
+"type": "VirtualRide",
+"start_date": "2026-06-04 12:06:11+00:00",
+"start_date_local": "2026-06-04 20:06:11",
+"location_country": "Mendocino County, \u52a0\u5229\u798f\u5c3c\u4e9a\u5dde;\u52a0\u5229\u798f\u5c3c\u4e9e\u5dde, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "c{coFbdxpVKgAs@g@i@LWr@p@~MQpBe@Ja@mJ?gJ^w@n@Ej@Pl@nA\\?Pc@AoBOaAm@u@sCy@w@XEd_@rAbNXx@fA?f@wAJ_QhNO`@oAFeN`@iB~@YjIBDx[_@hBmAtC@|M~UL\\JVl@LfDRp@rKKb@pAVdLzK?zA`FfC|Er@~BbAdAr@Hn@w@`BkFt@uJEeCn@mACi@iCKw@iA}Ai@gAkCe@]aEC}Cw@MmAbBaDBaByCoDoC?e@[oAaKBw@b@a@fCZfAi@N}Aa@qBk@_@aEHeH_EgB}F{BmAKiEWoAaCq@w@q@yCaGwAsAJ{@t@CbB~@zArCl@e@GmAs@_BiDwCs@QiAZq@|@g@hBQhBAdRgJJy@p@OhAGpNo@lA{MCIqN[y@s@Sa@VMnAj@|GBfESlAg@G[aJ?gJZu@r@Gh@Pp@nAX?Ra@?gBQmAu@y@mCs@y@\\?b`@xA~Mb@f@p@Ej@}AFyPjNUd@yADkMTgBbAk@lI?Jd@?vZUrAuAbD?fNzUJn@ZVlE`@p@|JWj@nAXpLfKOd@f@nAlE`EhJlAz@f@K`@k@tBkHb@wHGqBp@aCWYoBBcAoAqA]kBmDoEEwCu@K{A`BwC@eBwCiDsC?e@a@iAsJDkAXSdCXjAa@T}A_@sBi@e@aEJeH{DiBwF{BqAa@{G{DcBkD{GcAw@A}@pAChAr@xArCp@UAmAo@cBoCiCkAe@s@H}@r@o@~A[fC?fRcJPcA|@Q~Og@xAkNEA{MS_As@]a@NUl@n@hNSnBe@B_@aJAiJVw@v@Kp@Xh@bA`@BLqBO_Ba@o@{CaA{@PEv`@~A`N~@\\v@qALoQbMEp@WXmAD}M\\aBdAa@~H?N\\?~ZUrAuAbDAbNvUNl@PL^PxD\\l@fKQ`@r@^jMtKGbFxLt@dClAhAx@EhAcChAwEb@wHEqBn@{AAg@sCSw@iA}Ak@aBaDiEC_D}@?_B~AwCEeBqC}CuC?c@_@mAaKNiA\\K~AZ`B[XyA]uBg@k@sEDiEuByAsAeBsFwBgA[oGmD}AaAiAqBqEsAsANy@fBV`A|@j@~Ap@XRUBiAeA_CcDoCmACmAz@k@zAY~BAnRwILcAh@WtAGjNe@nAgNAIyNYo@m@Sa@NSdAp@jMMlBe@RQq@YsN@yC^oA",
+"average_heartrate": 43.8,
+"average_speed": 7.996,
+"source": "strava",
+"streak": 1
 }
 ]
