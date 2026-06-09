@@ -6628,5 +6628,20 @@
 "average_speed": 0.952,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 18835568613,
+"name": "MyWhoosh - 90 Minute Endurance",
+"distance": 5418.7,
+"moving_time": "0:12:09",
+"type": "VirtualRide",
+"start_date": "2026-06-08 11:41:40+00:00",
+"start_date_local": "2026-06-08 19:41:40",
+"location_country": "Mendocino County, \u52a0\u5229\u798f\u5c3c\u4e9a\u5dde;\u52a0\u5229\u798f\u5c3c\u4e9e\u5dde, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "c{coFbdxpVAg@EQISMQ[OW?YNM^EVAf@F~@f@zEBzCC~@Ih@MPI@MAIKGe@?}AM}BKyG?yABmAF_@P[HGJC\\?\\FJHD?LP`@|@JBH?FCHIBKBa@AiAGo@G_@Sa@YW_@Oy@OQKe@MU?SBONGTCXBv]@p@T`Ch@vCFf@B`AH~@L`@LNZJb@OZc@Ls@FeBAsMJMPCP?PBlKBd@QLWFUFq@DkM@_@P}@Z[HEb@IbI?LFBPCpLBvLE|@ERWx@[v@g@~@ETCvA?lEBTAdBB|@LDfI?xBDfG?ZHLFHHH\\@PJfDNXJJXB|@C~@Kr@?NCbBGl@?N@LDLJJNHh@RdLHPlAANEzBENCn@ANCjA?XL\\f@DLNt@XfAl@|AVf@x@tA^v@\\rAPd@T\\RTb@TXFJAZULUFEn@kB@GLc@Pg@?GLe@",
+"average_heartrate": null,
+"average_speed": 7.433,
+"source": "strava",
+"streak": 5
 }
 ]
