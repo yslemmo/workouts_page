@@ -6718,5 +6718,20 @@
 "average_speed": 3.479,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 18982610896,
+"name": "Evening Run",
+"distance": 7017.6,
+"moving_time": "0:36:59",
+"type": "Run",
+"start_date": "2026-06-19 10:12:37+00:00",
+"start_date_local": "2026-06-19 18:12:37",
+"location_country": "\u96ea\u5cf0\u8857\u9053, \u6d1e\u53e3\u53bf, \u90b5\u9633\u5e02, \u6e56\u5357\u7701, \u4e2d\u56fd",
+"summary_polyline": "anbdDip~aT@?DW?_@M{ACoAC[?{@Cm@DaAOkF?}BG}A@mACa@AeACw@BsBA{AE[?}@Eg@Ag@n@aINqA@STwAH}@X}B\\eDDsAR}AVeD@m@L{@HkAh@aFDq@LcA?ONaBf@wD?SHgACU@SEKUGQg@KOOGOAyGEyA@]BgACiABOCqD@aAF_CEeDAgA@qAAaBDcBE{EDQCqAA_CDkAAg@@QAIEg@JsBDyA@u@CaA@}@AiBBiCAwCBWAw@BmAGk@BaAAeBBw@EwADm@HeABkCTqAHaBRIBGNMJm@Hk@DXb@\\I|Dg@j@AnDY^Ap@@j@E|A?b@@`BElB?|@IrB@lDC`@BlEEvD@RAp@@~@Cx@HdB@nAAnA@tAA`BB|CGrBBbAAn@Bd@CnEBdDCx@@RC~BBlFEjD@lBAd@Bd@CTBNHHLDRA`@QlAS~BA^_@tCS|BEFGjAEPG`BKj@Cf@IX?b@IXA^QpAEl@ObA]xD?TOvBKbAKf@C\\",
+"average_heartrate": 166.2,
+"average_speed": 3.163,
+"source": "strava",
+"streak": 1
 }
 ]
