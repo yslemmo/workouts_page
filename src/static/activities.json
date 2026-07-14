@@ -6913,5 +6913,35 @@
 "average_speed": 3.159,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 19289622970,
+"name": "Cycling",
+"distance": 2319.7,
+"moving_time": "0:09:51",
+"type": "Ride",
+"start_date": "2026-07-13 03:29:45+00:00",
+"start_date_local": "2026-07-13 11:29:45",
+"location_country": "\u664b\u9633\u8857\u9053, \u6b66\u4faf\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610045, \u4e2d\u56fd",
+"summary_polyline": "uxczDicwyR\\oAFKNCNIb@Et@?vBGp@B\\Ef@Ap@@~AE~@@tAEV@bBIlIAl@GpA@zAGhC?lAC|@KzACFBP?p@GHIDUDm@A[m@kEE}@]}ASeBa@{G?i@DGB?\\AHCRB^GRGf@]HD`@h@B?TIHKbBkAVUH@z@dBPTl@hAHR@J\\l@F\\KGO@IDgBxAuDrCoAj@[H_@AGDGCCGECADV~@?FCD[DM?IKOs@QB",
+"average_heartrate": null,
+"average_speed": 3.925,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 19301560971,
+"name": "Cycling",
+"distance": 0.0,
+"moving_time": "0:02:16",
+"type": "Ride",
+"start_date": "2026-07-13 23:29:06+00:00",
+"start_date_local": "2026-07-14 07:29:06",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 112.8,
+"average_speed": 0.0,
+"source": "strava",
+"streak": 3
 }
 ]
