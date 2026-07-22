@@ -7036,7 +7036,7 @@
 },
 {
 "run_id": 19386212004,
-"name": "Cycling",
+"name": "day7\uff1a\u6731\u502d\u9547-\u9519\u963f\u9547",
 "distance": 115371.0,
 "moving_time": "6:14:37",
 "type": "Ride",
@@ -7048,5 +7048,20 @@
 "average_speed": 5.133,
 "source": "strava",
 "streak": 9
+},
+{
+"run_id": 19399093624,
+"name": "day8\uff1a\u9519\u963f\u9547-\u5fb7\u683c\u53bf\uff08113km\uff09",
+"distance": 105506.0,
+"moving_time": "5:02:17",
+"type": "Ride",
+"start_date": "2026-07-21 00:54:18+00:00",
+"start_date_local": "2026-07-21 08:54:18",
+"location_country": "\u6210\u90fd - \u5676\u5c14, \u624e\u897f\u6301, \u7ed2\u9752, \u5fb7\u683c\u53bf, \u7518\u5b5c\u85cf\u65cf\u81ea\u6cbb\u5dde, \u56db\u5ddd\u7701, 627200, \u4e2d\u56fd",
+"summary_polyline": "c}eaEu~v}Q_QxVkEfO}LpVuNjb@iKzl@kInPoLvLu`@fw@_QfVaP|e@}HzNaNx`@s`@ri@go@zpAmRdMeF~UiXz[kUxg@sFfSw[nm@iUbh@aYzd@yOj\\oaAvuAkGlZeMj`@aa@nb@_AlENjJkBzHwOdY{[d~@yZneAgB~[{AvBv@rCqErb@|Bjq@yEdVtAp^`AdFj]pk@d[ju@ChIuNzaArQb~@dBbE~SfSpPxBxJvEzPzXfT|FtOtKlq@aClNxDb^bAvUrPbUbV|X|TlPpU|Gb^Qfh@bB`Rc@rVbExRyFdQ_@pE`DhOFfKmMlk@mB~a@rAzKX~PmOhVoFjSmBj[gMtUkBpOTzSaArE_BzEiGlEqG|JmBbN|B`UqCbH}@bJqGvH_@h_@iChEqIxBuBvBsA|HuEvLgBpRiNb\\Rp[q@|GwDbQiIhNwPp~@wKbUkP~ReBxGgD~EyA|WcPjRwEdXmTp^kU`u@[tH|CtZoI|^]zF`A|HzGxQpAjRo@lBqmFppJmGvAcEjD_IdWkApLsJ`PB~OgGxM{DdZjCxO~FbJVvCoCdCcK}BmBnIj@zClLbJfBpGxDdC{ErDwApNnEjYLpOwKjR~@ChL{OjAwGwAgRd@m@pDtYaBhEVlA`AIrAcEqBiIf@mA~AxGdJvPvXbLwIyGE}AhVbRbO~BtNdFzGvEvDnKfG`KrPtNjHfJ{@hL`@`N|O`QlDtLjF`HrBvWtEhKpO`M|IlXFhMuCnMyR`Pi@pNkDdP}BxEmQzHaFvNkFnIkGdFoCzGiMbEwCpHsKvNeGvCsWbSsPxOaGjO{CbEyAdJkEfJoDjCeK^mCjBuCdJz@lGg@lCkRdLcL|LiM~Gc@fCx@tOvJnWnAxHCbM~BhUcFlNi@~P{DjGm@`IcEbOj@~JpC`IqClP_EzFoFtBsA|Bw@~Jz@vQcAvLiJtM_JlVaFvGsAdNsJl^gB`OEpJyEzOxFhPjCjSJhYaFfGmAdFlElQk@tNvAzIcCbGF`CnQdk@fIlDlCdMvWhYxSff@tIp`@OhGtAlHY|EzAhF_AhIPjLdE`WjDjJrDnYtCfJxJ~MnCbBlBlFhI|BhGtExAdEpCzAfAjJbHpEfDdJfSzFfLvGb[`D`OEfLtEpLiAbM{EfWjDlKjHrGbK~GrAdLdGzF_AdCt@hGbTzKpD|DbEjC`QvCvD|FZxGwCdRcDfQdKvNzLpLnA`UrSfOdF`Iq@xIjAhFy@`TpJjP_AjIpFzJIlQjQhDbNlNaB|MbDjBnAtB`IhUjIpMKbPfC|[nAnS_DvMaHjL_KvDgNvN{IbJmKhHkDnJs@vQKpJvDdOhM|EjKlIpBfHfRzEjG",
+"average_heartrate": 120.3,
+"average_speed": 5.817,
+"source": "strava",
+"streak": 10
 }
 ]
