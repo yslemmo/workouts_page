@@ -7275,6 +7275,21 @@
 "streak": 8
 },
 {
+"run_id": 19636801580,
+"name": "Lunch Hike",
+"distance": 2374.5,
+"moving_time": "0:35:13",
+"type": "Hike",
+"start_date": "2026-08-03 03:06:24+00:00",
+"start_date_local": "2026-08-03 11:06:24",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 92.3,
+"average_speed": 1.124,
+"source": "strava",
+"streak": 9
+},
+{
 "run_id": 19628231737,
 "name": "\u665a\u95f4\u9a91\u884c",
 "distance": 2244.9,
@@ -7288,5 +7303,20 @@
 "average_speed": 4.454,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 19636802465,
+"name": "\u5ce8\u7709\u5c71\u5f92\u6b65",
+"distance": 9971.3,
+"moving_time": "4:02:38",
+"type": "Hike",
+"start_date": "2026-08-07 01:59:40+00:00",
+"start_date_local": "2026-08-07 09:59:40",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 113.5,
+"average_speed": 0.685,
+"source": "strava",
+"streak": 2
 }
 ]
