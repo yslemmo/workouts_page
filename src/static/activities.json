@@ -6946,7 +6946,7 @@
 },
 {
 "run_id": 19304359014,
-"name": "317 \u5ddd\u85cf\u7ebf Day1\uff1a\u6210\u90fd\u2192\u6c76\u5ddd\u6620\u79c0\uff0890km\uff09",
+"name": "day1\uff1a\u6210\u90fd\u2192\u6c76\u5ddd\u6620\u79c0\uff0890km\uff09",
 "distance": 86116.1,
 "moving_time": "3:51:33",
 "type": "Ride",
@@ -6991,7 +6991,7 @@
 },
 {
 "run_id": 19319362135,
-"name": "Day2 \u6620\u79c0-\u5367\u9f99\uff08\u5b9e\u9645 50km\uff09",
+"name": "day2 \u6620\u79c0-\u5367\u9f99\uff08\u5b9e\u9645 50km\uff09",
 "distance": 32494.1,
 "moving_time": "1:55:14",
 "type": "Ride",
@@ -7021,7 +7021,7 @@
 },
 {
 "run_id": 19350301187,
-"name": "Day4\uff1a\u5c0f\u91d1-\u4e39\u5df4\u53bf-\u7ffb\u8d8a\u7599\u7629\u6881\u5b50-\u516b\u7f8e\u9547\uff08143km\uff09",
+"name": "day4\uff1a\u5c0f\u91d1-\u4e39\u5df4\u53bf-\u7ffb\u8d8a\u7599\u7629\u6881\u5b50-\u516b\u7f8e\u9547\uff08143km\uff09",
 "distance": 141669.0,
 "moving_time": "7:35:23",
 "type": "Ride",
