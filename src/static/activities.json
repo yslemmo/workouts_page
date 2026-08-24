@@ -7471,7 +7471,7 @@
 },
 {
 "run_id": 19857688774,
-"name": "Cycling",
+"name": "2026 \u516b\u9762\u5c71\u722c\u5761\u8d5b",
 "distance": 18106.4,
 "moving_time": "1:03:57",
 "type": "Ride",
@@ -7483,5 +7483,35 @@
 "average_speed": 4.719,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 19859471512,
+"name": "Cycling",
+"distance": 23845.2,
+"moving_time": "0:59:12",
+"type": "Ride",
+"start_date": "2026-08-23 01:35:20+00:00",
+"start_date_local": "2026-08-23 09:35:20",
+"location_country": "\u73af\u5c71\u516c\u8def, \u81ea\u751f\u6865\u6751\u7b2c\u56db\u6751\u6c11\u5c0f\u7ec4, \u81ea\u751f\u6865\u6751, \u9f99\u5c71\u53bf, \u6e58\u897f\u571f\u5bb6\u65cf\u82d7\u65cf\u81ea\u6cbb\u5dde, \u6e56\u5357\u7701, \u4e2d\u56fd",
+"summary_polyline": "}}_oDejyyS_@g@mAcA]_Bj@oCn@kAb@SfALfAm@tCaAhBFh@EGOJRcCK{BdAo@B}@`@eBB}@xAUnAU^w@wAMqA_@c@i@CiCf@}@WE{A^aCJyBIy@s@e@sAIcBlAc@t@MEnAkEvBeBdB{@_Bx@j@qCWyEq@YiADiAmAg@cAYKOHVFQKuAn@oApAa@Ik@w@WCYzBd@xAB`A^fAL~A|@bBx@nCo@qBIu@dAHb@k@jAFa@NVOHNIx@UNgAMwAq@nBvF`@f@^BxCqC~@Gz@V\\x@EhC]~BNlAf@\\dDYb@NfC~HnAxAjBjApAzAb@TrDXxDmDRo@HiA[wJG[]]oHmDeA_C_BgAHYn@p@xCfC~CnATECW{CkB_@o@`Cx@|CxB~DbAzGrChJh@XWMSsCCwG{BkBaB{FgDiAwBHQlA|A`HtBfBjApGbAzDN|CtDjAl@xKDrHdF~EbBZEI[mBeAcGeFiBeDqAsEiB{B{@c@cDs@kEXeAUkEwD_@qBk@wAEc@Pq@p@_@`C`@zFdDbEaA|JvArCfA\\CJUMg@gAw@cDq@cBgB_Dw@mDNi@sAFsAeAmDqDaB{@oAaFcBGUPQ|@FrFlBtCVdCpBh@xA^P`@GxAoAjE_@~@d@vApCbE`Af@l@Jp@NJPUQkAyD_CmAgCWeC[c@yAcAXKtAd@n@rApCxCtCjAh@ICUcA_@i@i@m@wBaAiAOc@BwAx@aEJgBIg@a@@a@^_@vAUR_AM}A\\_BS}AVOyBsBeAs@gCoAmBaAcAaBa@[_@K_AL_AVe@nA_AvAwDzDyDbBe@\\YpAwCB_AWuBz@yCt@g@dDi@XBA^yBXmBnCEp@h@lBCpDmAhCmAhEh@x@bBp@vBq@~CdAd@IA[qAiBoBo@cA?M_@j@_Az@oCDyD|BqAdBsDFsFYiA?u@`AyA\\yAxAkAKe@kAk@E}@fD{Dr@mBdAaBpBaAbAsCCeC`@{BfEcDlCsAZ@IXgCfBuB|DkAlG?z@\\zB]lAwAnADVrBmAf@sA^}BxBiAx@{CrAu@hAkA\\sAr@i@~@yC|F_IvAiCVyBlAa@bAaAv@uAlC_Bb@q@hAeDpA{@`BmBjBkAfD_EjCyBzDsN|BmBrCwG~@kAnA{@f@kAdAeAr@_CbCcCxAqCzAaAlBhB`BCrAv@^OnIkT~DwSxCkG~AeBpCgBh@?pD`IzFxJ~CdJj@`A|WvQnMtHAx@kDpI",
+"average_heartrate": 128.4,
+"average_speed": 6.713,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 19871496747,
+"name": "Cycling",
+"distance": 1417.5,
+"moving_time": "0:05:01",
+"type": "Ride",
+"start_date": "2026-08-23 22:36:53+00:00",
+"start_date_local": "2026-08-24 06:36:53",
+"location_country": "\u91cc\u8036\u9547, \u9f99\u5c71\u53bf, \u6e58\u897f\u571f\u5bb6\u65cf\u82d7\u65cf\u81ea\u6cbb\u5dde, \u6e56\u5357\u7701, \u4e2d\u56fd",
+"summary_polyline": "{wvnD}sazS`AcCPk@JU?KXcAVq@BUKUcLqGUQaDqBqCmB]Q_DoBiA}@{ByAcBoAs@u@O[c@qAa@sAe@yA_AyBsA}BEEGC]b@CBECGGDA?DCDOJ",
+"average_heartrate": null,
+"average_speed": 4.709,
+"source": "strava",
+"streak": 3
 }
 ]
