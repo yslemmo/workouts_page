@@ -7603,5 +7603,20 @@
 "average_speed": 8.115,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 19934076828,
+"name": "\u5348\u540e\u6e38\u6cf3",
+"distance": 1700.0,
+"moving_time": "0:38:10",
+"type": "Swim",
+"start_date": "2026-08-28 08:41:29+00:00",
+"start_date_local": "2026-08-28 16:41:29",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 108.8,
+"average_speed": 0.742,
+"source": "strava",
+"streak": 7
 }
 ]
