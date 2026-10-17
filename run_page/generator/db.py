@@ -73,7 +73,7 @@ class Activity(Base):
         return out
 
 
-def update_or_create_activity(session, run_activity):
+def update_or_create_activity(session, run_activity, strict=False):
     created = False
     try:
         activity = (
@@ -131,6 +131,8 @@ def update_or_create_activity(session, run_activity):
             activity.moving_time = run_activity.moving_time
             activity.elapsed_time = run_activity.elapsed_time
             activity.type = type
+            activity.start_date = run_activity.start_date
+            activity.start_date_local = run_activity.start_date_local
             activity.average_heartrate = run_activity.average_heartrate
             activity.average_speed = float(run_activity.average_speed)
             activity.summary_polyline = (
@@ -138,6 +140,8 @@ def update_or_create_activity(session, run_activity):
             )
             activity.source = source
     except Exception as e:
+        if strict:
+            raise
         print(f"something wrong with {run_activity.id}")
         print(str(e))
 
