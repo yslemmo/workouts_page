@@ -14,7 +14,6 @@ from .db import Activity, init_db, update_or_create_activity
 
 from synced_data_file_logger import save_synced_data_file_list, load_fit_name_mapping
 
-
 IGNORE_BEFORE_SAVING = os.getenv("IGNORE_BEFORE_SAVING", False)
 
 
@@ -46,12 +45,15 @@ class Generator:
         self.client.access_token = response["access_token"]
         print("Access ok")
 
-    def sync(self, force):
+    def sync(self, force, prune_deleted=False):
+        if prune_deleted and not force:
+            raise ValueError("Deleting missing activities requires a full Strava sync")
         self.check_access()
 
         print("Start syncing")
+        snapshot_time = datetime.datetime.utcnow()
         if force:
-            filters = {"before": datetime.datetime.utcnow()}
+            filters = {"before": snapshot_time}
         else:
             last_activity = self.session.query(func.max(Activity.start_date)).scalar()
             if last_activity:
@@ -61,19 +63,44 @@ class Generator:
             else:
                 filters = {"before": datetime.datetime.utcnow()}
 
-        for activity in self.client.get_activities(**filters):
-            if self.only_run and activity.type != "Run":
-                continue
-            if IGNORE_BEFORE_SAVING:
-                activity.summary_polyline = filter_out(activity.summary_polyline)
-            activity.source = "strava"
-            created = update_or_create_activity(self.session, activity)
-            if created:
-                sys.stdout.write("+")
-            else:
-                sys.stdout.write(".")
-            sys.stdout.flush()
-        self.session.commit()
+        try:
+            # Exhaust every API page before changing the database. An interrupted
+            # fetch must never be mistaken for a list of deleted activities.
+            activities = list(self.client.get_activities(**filters))
+            if prune_deleted and not activities:
+                raise ValueError("Refusing to prune: Strava returned no activities")
+
+            synced_ids = set()
+            for activity in activities:
+                if self.only_run and activity.type != "Run":
+                    continue
+                synced_ids.add(int(activity.id))
+                if IGNORE_BEFORE_SAVING:
+                    activity.summary_polyline = filter_out(activity.summary_polyline)
+                activity.source = "strava"
+                created = update_or_create_activity(
+                    self.session, activity, strict=prune_deleted
+                )
+                sys.stdout.write("+" if created else ".")
+                sys.stdout.flush()
+
+            if prune_deleted:
+                query = self.session.query(Activity).filter(
+                    Activity.source == "strava",
+                    # The API request excludes activities at/after this boundary.
+                    func.datetime(Activity.start_date)
+                    < snapshot_time.strftime("%Y-%m-%d %H:%M:%S"),
+                )
+                if self.only_run:
+                    query = query.filter(Activity.type == "Run")
+                deleted_count = query.filter(~Activity.run_id.in_(synced_ids)).delete(
+                    synchronize_session=False
+                )
+                print(f"\nRemoved {deleted_count} activities no longer in Strava")
+            self.session.commit()
+        except Exception:
+            self.session.rollback()
+            raise
 
     def sync_from_data_dir(self, data_dir, file_suffix="gpx"):
         loader = track_loader.TrackLoader()
